@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Offline | PMAS</title>
+	<style>
+		body { font-family: system-ui, -apple-system, Segoe UI, Roboto, sans-serif; background: #edf4f3; color: #1E2530; margin: 0; min-height: 100vh; display: flex; align-items: center; justify-content: center; padding: 1.5rem; }
+		.card { background: #fff; max-width: 26rem; width: 100%; border-radius: 1rem; padding: 2rem; box-shadow: 0 12px 40px rgba(26,65,70,.12); text-align: center; }
+		.mark { width: 56px; height: 56px; border-radius: 1rem; margin: 0 auto 1rem; background: #12A594; display: flex; align-items: center; justify-center; color: #fff; font-weight: 700; font-size: 1.5rem; }
+		h1 { margin: 0 0 .5rem; font-size: 1.25rem; }
+		p { color: #6B7A93; line-height: 1.5; margin: .5rem 0 1.5rem; }
+		button { background: #10253b; color: #fff; border: none; padding: .75rem 1.5rem; border-radius: .65rem; font-weight: 600; cursor: pointer; }
+		button:hover { opacity: .85; }
+	</style>
+</head>
+<body>
+	<div class="card">
+		<div class="mark">Rx</div>
+		<h1>You are offline</h1>
+		<p>PMAS could not reach the server. Outstanding sales and
+			purchases cannot be recorded right now. Reconnect and try again —
+			check the cable, router, or your data connection.</p>
+		<button onclick="location.reload()">Try again</button>
+	</div>
+</body>
+</html>

@@ -1,0 +1,3099 @@
+[
+    {
+        "name": "Adiflam Gel (Diclofenac)",
+        "generic_name": "Diclofenac",
+        "strength": "30g",
+        "form": "gel",
+        "kind": "medicine",
+        "category": "Analgesics and Antipyretics",
+        "packing": {
+            "top": "tube",
+            "top_holds": 1,
+            "middle": null,
+            "middle_holds": null,
+            "base": "tube",
+            "units_per_top": 1,
+            "status": "confirmed"
+        },
+        "source_invoices": "CRSI-ST1-01-0004777",
+        "notes": "One tube per pack."
+    },
+    {
+        "name": "Adol (Paracetamol)",
+        "generic_name": "Paracetamol",
+        "strength": "120mg/5ml",
+        "form": "syrup",
+        "kind": "medicine",
+        "category": "Analgesics and Antipyretics",
+        "packing": {
+            "top": "pack",
+            "top_holds": null,
+            "middle": null,
+            "middle_holds": null,
+            "base": null,
+            "units_per_top": null,
+            "status": "missing"
+        },
+        "source_invoices": "CRSI-ST1-01-0014522",
+        "notes": "Pack count not printed; no base unit set. PACK COUNT MISSING - no base unit set; confirm before import."
+    },
+    {
+        "name": "Arfen (Paracetamol)",
+        "generic_name": "Paracetamol",
+        "strength": "250mg",
+        "form": "suppository",
+        "kind": "medicine",
+        "category": "Analgesics and Antipyretics",
+        "packing": {
+            "top": "pack",
+            "top_holds": 10,
+            "middle": null,
+            "middle_holds": null,
+            "base": "suppository",
+            "units_per_top": 10,
+            "status": "confirmed"
+        },
+        "source_invoices": "CR-00016964",
+        "notes": "batch unclear Printed of 10."
+    },
+    {
+        "name": "Aspirin (Edsprin)",
+        "generic_name": "Aspirin",
+        "strength": "81mg",
+        "form": "tablet",
+        "kind": "medicine",
+        "category": "Analgesics and Antipyretics",
+        "packing": {
+            "top": "pack",
+            "top_holds": 10,
+            "middle": "strip",
+            "middle_holds": 10,
+            "base": "tablet",
+            "units_per_top": 100,
+            "status": "confirmed"
+        },
+        "source_invoices": "CR-00016961",
+        "notes": "Invoice confirms 10*10 = 100. Printed 10*10."
+    },
+    {
+        "name": "Declophen (Diclofenac Potassium)",
+        "generic_name": "Diclofenac Potassium",
+        "strength": "50mg/2mg",
+        "form": "sachet",
+        "kind": "medicine",
+        "category": "Analgesics and Antipyretics",
+        "packing": {
+            "top": "pack",
+            "top_holds": 10,
+            "middle": null,
+            "middle_holds": null,
+            "base": "sachet",
+            "units_per_top": 10,
+            "status": "confirmed"
+        },
+        "source_invoices": "CSI-ST1-01-0002528",
+        "notes": "Printed of 10."
+    },
+    {
+        "name": "Gofen",
+        "generic_name": "",
+        "strength": "400mg",
+        "form": "tablet",
+        "kind": "medicine",
+        "category": "Analgesics and Antipyretics",
+        "packing": {
+            "top": "pack",
+            "top_holds": 6,
+            "middle": "strip",
+            "middle_holds": 10,
+            "base": "tablet",
+            "units_per_top": 60,
+            "status": "confirmed"
+        },
+        "source_invoices": "CR-00016961",
+        "notes": "400mg; likely ibuprofen but generic not printed. Printed 6*10."
+    },
+    {
+        "name": "Ibuclod Plus",
+        "generic_name": "",
+        "strength": "-",
+        "form": "syrup",
+        "kind": "medicine",
+        "category": "Analgesics and Antipyretics",
+        "packing": {
+            "top": "bottle",
+            "top_holds": 1,
+            "middle": null,
+            "middle_holds": null,
+            "base": "bottle",
+            "units_per_top": 1,
+            "status": "confirmed"
+        },
+        "source_invoices": "CR-00016964",
+        "notes": "One bottle per pack."
+    },
+    {
+        "name": "Ibufen (Ibuprofen)",
+        "generic_name": "Ibuprofen",
+        "strength": "100mg/5ml 100ml",
+        "form": "suspension",
+        "kind": "medicine",
+        "category": "Analgesics and Antipyretics",
+        "packing": {
+            "top": "box",
+            "top_holds": 1,
+            "middle": null,
+            "middle_holds": null,
+            "base": "bottle",
+            "units_per_top": 1,
+            "status": "assumed"
+        },
+        "source_invoices": "CRSI-ST1-01-0014522;CSI-ST1-01-0016241",
+        "notes": "UOM Box; contents unknown Box assumed to hold one 100ml bottle. Pack count assumed - confirm."
+    },
+    {
+        "name": "Meloxicam (Melocam)",
+        "generic_name": "Meloxicam",
+        "strength": "15mg",
+        "form": "tablet",
+        "kind": "medicine",
+        "category": "Analgesics and Antipyretics",
+        "packing": {
+            "top": "pack",
+            "top_holds": 2,
+            "middle": "strip",
+            "middle_holds": 10,
+            "base": "tablet",
+            "units_per_top": 20,
+            "status": "confirmed"
+        },
+        "source_invoices": "CRSI-ST1-01-0004777",
+        "notes": "Printed 2*10."
+    },
+    {
+        "name": "Panadol Advance",
+        "generic_name": "",
+        "strength": "500mg",
+        "form": "tablet",
+        "kind": "medicine",
+        "category": "Analgesics and Antipyretics",
+        "packing": {
+            "top": "pack",
+            "top_holds": 10,
+            "middle": "strip",
+            "middle_holds": 10,
+            "base": "tablet",
+            "units_per_top": 100,
+            "status": "confirmed"
+        },
+        "source_invoices": "CR-00016964",
+        "notes": "batch obscured Printed 10*10."
+    },
+    {
+        "name": "Para Denk (Paracetamol)",
+        "generic_name": "Paracetamol",
+        "strength": "125mg",
+        "form": "suppository",
+        "kind": "medicine",
+        "category": "Analgesics and Antipyretics",
+        "packing": {
+            "top": "pack",
+            "top_holds": 10,
+            "middle": null,
+            "middle_holds": null,
+            "base": "suppository",
+            "units_per_top": 10,
+            "status": "confirmed"
+        },
+        "source_invoices": "CR-00016960",
+        "notes": "Printed of 10."
+    },
+    {
+        "name": "Paracetamol (Poro)",
+        "generic_name": "Paracetamol",
+        "strength": "250mg/5ml",
+        "form": "suspension",
+        "kind": "medicine",
+        "category": "Analgesics and Antipyretics",
+        "packing": {
+            "top": "bottle",
+            "top_holds": 1,
+            "middle": null,
+            "middle_holds": null,
+            "base": "bottle",
+            "units_per_top": 1,
+            "status": "confirmed"
+        },
+        "source_invoices": "CA-00009742",
+        "notes": "One bottle per pack."
+    },
+    {
+        "name": "Tiger Plaster",
+        "generic_name": "",
+        "strength": "-",
+        "form": "plaster",
+        "kind": "medicine",
+        "category": "Analgesics and Antipyretics",
+        "packing": {
+            "top": "box",
+            "top_holds": 50,
+            "middle": null,
+            "middle_holds": null,
+            "base": "plaster",
+            "units_per_top": 50,
+            "status": "confirmed"
+        },
+        "source_invoices": "CSI-ST1-01-0002528",
+        "notes": "Medicated plaster; 50 per box. Printed of 50."
+    },
+    {
+        "name": "Albendazole",
+        "generic_name": "Albendazole",
+        "strength": "-",
+        "form": "suspension",
+        "kind": "medicine",
+        "category": "Anthelmintics",
+        "packing": {
+            "top": "bottle",
+            "top_holds": 1,
+            "middle": null,
+            "middle_holds": null,
+            "base": "bottle",
+            "units_per_top": 1,
+            "status": "confirmed"
+        },
+        "source_invoices": "CR-00016964",
+        "notes": "qty 330 unusually large - verify One bottle per pack."
+    },
+    {
+        "name": "Mebendazole",
+        "generic_name": "Mebendazole",
+        "strength": "100mg/5ml",
+        "form": "suspension",
+        "kind": "medicine",
+        "category": "Anthelmintics",
+        "packing": {
+            "top": "bottle",
+            "top_holds": 1,
+            "middle": null,
+            "middle_holds": null,
+            "base": "bottle",
+            "units_per_top": 1,
+            "status": "confirmed"
+        },
+        "source_invoices": "CR-00016964",
+        "notes": "One bottle per pack."
+    },
+    {
+        "name": "Amoklavin (Amoxicillin+Clavulanate)",
+        "generic_name": "Amoxicillin+Clavulanate",
+        "strength": "1g",
+        "form": "tablet",
+        "kind": "medicine",
+        "category": "Antibiotics",
+        "packing": {
+            "top": "pack",
+            "top_holds": 14,
+            "middle": null,
+            "middle_holds": null,
+            "base": "tablet",
+            "units_per_top": 14,
+            "status": "confirmed"
+        },
+        "source_invoices": "CRSI-ST1-01-0004777",
+        "notes": "Printed of 14."
+    },
+    {
+        "name": "Aziro",
+        "generic_name": "",
+        "strength": "500mg",
+        "form": "tablet",
+        "kind": "medicine",
+        "category": "Antibiotics",
+        "packing": {
+            "top": "pack",
+            "top_holds": 3,
+            "middle": null,
+            "middle_holds": null,
+            "base": "tablet",
+            "units_per_top": 3,
+            "status": "confirmed"
+        },
+        "source_invoices": "CRSI-ST1-01-00059??",
+        "notes": "Azithromycin brand; generic not printed. price and total cut off Printed of 3."
+    },
+    {
+        "name": "Benzanthine Pen (Benzathine penicillin)",
+        "generic_name": "Benzathine penicillin",
+        "strength": "2.4MIU",
+        "form": "injection",
+        "kind": "medicine",
+        "category": "Antibiotics",
+        "packing": {
+            "top": "pack",
+            "top_holds": 10,
+            "middle": null,
+            "middle_holds": null,
+            "base": "vial",
+            "units_per_top": 10,
+            "status": "confirmed"
+        },
+        "source_invoices": "CR-00016960",
+        "notes": "Printed of 10."
+    },
+    {
+        "name": "Cefalexine",
+        "generic_name": "Cephalexin",
+        "strength": "500mg",
+        "form": "capsule",
+        "kind": "medicine",
+        "category": "Antibiotics",
+        "packing": {
+            "top": "pack",
+            "top_holds": 10,
+            "middle": "strip",
+            "middle_holds": 10,
+            "base": "capsule",
+            "units_per_top": 100,
+            "status": "confirmed"
+        },
+        "source_invoices": "CRSI-ST1-01-00059??",
+        "notes": "Invoice spells it Cefalexine; generic inferred. price cut off; form assumed Printed 10*10."
+    },
+    {
+        "name": "Cefix",
+        "generic_name": "",
+        "strength": "30ml",
+        "form": "suspension",
+        "kind": "medicine",
+        "category": "Antibiotics",
+        "packing": {
+            "top": "bottle",
+            "top_holds": 1,
+            "middle": null,
+            "middle_holds": null,
+            "base": "bottle",
+            "units_per_top": 1,
+            "status": "confirmed"
+        },
+        "source_invoices": "CR-00016960",
+        "notes": "Cefixime brand; generic not printed. One bottle per pack."
+    },
+    {
+        "name": "Cefix",
+        "generic_name": "",
+        "strength": "60ml",
+        "form": "oral suspension",
+        "kind": "medicine",
+        "category": "Antibiotics",
+        "packing": {
+            "top": "bottle",
+            "top_holds": 1,
+            "middle": null,
+            "middle_holds": null,
+            "base": "bottle",
+            "units_per_top": 1,
+            "status": "confirmed"
+        },
+        "source_invoices": "00015559",
+        "notes": "Cefixime brand; generic not printed. One bottle per pack."
+    },
+    {
+        "name": "Cefixime (Cachmax)",
+        "generic_name": "Cefixime",
+        "strength": "400mg",
+        "form": "tablet",
+        "kind": "medicine",
+        "category": "Antibiotics",
+        "packing": {
+            "top": "pack",
+            "top_holds": 10,
+            "middle": null,
+            "middle_holds": null,
+            "base": "tablet",
+            "units_per_top": 10,
+            "status": "confirmed"
+        },
+        "source_invoices": "CRSI-ST1-01-0002370",
+        "notes": "Printed of 10."
+    },
+    {
+        "name": "Ceftriaxone",
+        "generic_name": "Ceftriaxone",
+        "strength": "1g",
+        "form": "injection",
+        "kind": "medicine",
+        "category": "Antibiotics",
+        "packing": {
+            "top": "vial",
+            "top_holds": 1,
+            "middle": null,
+            "middle_holds": null,
+            "base": "vial",
+            "units_per_top": 1,
+            "status": "confirmed"
+        },
+        "source_invoices": "CR-00016546",
+        "notes": "One vial per pack."
+    },
+    {
+        "name": "Ceftriaxone (Travilan)",
+        "generic_name": "Ceftriaxone",
+        "strength": "1g",
+        "form": "injection",
+        "kind": "medicine",
+        "category": "Antibiotics",
+        "packing": {
+            "top": "vial",
+            "top_holds": 1,
+            "middle": null,
+            "middle_holds": null,
+            "base": "vial",
+            "units_per_top": 1,
+            "status": "confirmed"
+        },
+        "source_invoices": "CRSI-ST1-01-0002370;CRSI-ST1-01-0004777",
+        "notes": "One vial per pack."
+    },
+    {
+        "name": "Ciprofloxacin (Zindolin)",
+        "generic_name": "Ciprofloxacin",
+        "strength": "500mg",
+        "form": "tablet",
+        "kind": "medicine",
+        "category": "Antibiotics",
+        "packing": {
+            "top": "pack",
+            "top_holds": 10,
+            "middle": "strip",
+            "middle_holds": 10,
+            "base": "tablet",
+            "units_per_top": 100,
+            "status": "confirmed"
+        },
+        "source_invoices": "CA-00009742;CRSI-ST1-01-0004777",
+        "notes": "Printed 10*10."
+    },
+    {
+        "name": "Cipropharm (Ciprofloxacin)",
+        "generic_name": "Ciprofloxacin",
+        "strength": "500mg",
+        "form": "tablet",
+        "kind": "medicine",
+        "category": "Antibiotics",
+        "packing": {
+            "top": "pack",
+            "top_holds": 10,
+            "middle": null,
+            "middle_holds": null,
+            "base": "tablet",
+            "units_per_top": 10,
+            "status": "confirmed"
+        },
+        "source_invoices": "CR-00016960",
+        "notes": "qty 20; printed total implies 20 Printed of 10."
+    },
+    {
+        "name": "Clarithromycin (Deklarit)",
+        "generic_name": "Clarithromycin",
+        "strength": "500mg",
+        "form": "tablet",
+        "kind": "medicine",
+        "category": "Antibiotics",
+        "packing": {
+            "top": "pack",
+            "top_holds": 14,
+            "middle": null,
+            "middle_holds": null,
+            "base": "tablet",
+            "units_per_top": 14,
+            "status": "confirmed"
+        },
+        "source_invoices": "CRSI-ST1-01-0004777",
+        "notes": "Printed of 14."
+    },
+    {
+        "name": "Clavomid (Amoxicillin+Clavulanate)",
+        "generic_name": "Amoxicillin+Clavulanate",
+        "strength": "625mg",
+        "form": "tablet",
+        "kind": "medicine",
+        "category": "Antibiotics",
+        "packing": {
+            "top": "pack",
+            "top_holds": 20,
+            "middle": null,
+            "middle_holds": null,
+            "base": "tablet",
+            "units_per_top": 20,
+            "status": "confirmed"
+        },
+        "source_invoices": "CR-00016961",
+        "notes": "Printed of 20."
+    },
+    {
+        "name": "Desefin",
+        "generic_name": "Ceftriaxone",
+        "strength": "1g",
+        "form": "injection",
+        "kind": "medicine",
+        "category": "Antibiotics",
+        "packing": {
+            "top": "vial",
+            "top_holds": 1,
+            "middle": null,
+            "middle_holds": null,
+            "base": "vial",
+            "units_per_top": 1,
+            "status": "confirmed"
+        },
+        "source_invoices": "CRSI-ST1-01-0014522",
+        "notes": "Invoice description states Ceftriaxone. One vial per pack."
+    },
+    {
+        "name": "Doxycycline",
+        "generic_name": "Doxycycline",
+        "strength": "100mg",
+        "form": "capsule",
+        "kind": "medicine",
+        "category": "Antibiotics",
+        "packing": {
+            "top": "pack",
+            "top_holds": 10,
+            "middle": null,
+            "middle_holds": null,
+            "base": "capsule",
+            "units_per_top": 10,
+            "status": "confirmed"
+        },
+        "source_invoices": "CSI-ST1-01-0000015",
+        "notes": "batch unclear Printed of 10."
+    },
+    {
+        "name": "Klamoks (Amoxicillin+Clavulanate)",
+        "generic_name": "Amoxicillin+Clavulanate",
+        "strength": "228mg/5ml",
+        "form": "suspension",
+        "kind": "medicine",
+        "category": "Antibiotics",
+        "packing": {
+            "top": "bottle",
+            "top_holds": 1,
+            "middle": null,
+            "middle_holds": null,
+            "base": "bottle",
+            "units_per_top": 1,
+            "status": "confirmed"
+        },
+        "source_invoices": "CR-00016964",
+        "notes": "One bottle per pack."
+    },
+    {
+        "name": "Klamoks (Amoxicillin+Clavulanate)",
+        "generic_name": "Amoxicillin+Clavulanate",
+        "strength": "625mg",
+        "form": "tablet",
+        "kind": "medicine",
+        "category": "Antibiotics",
+        "packing": {
+            "top": "pack",
+            "top_holds": 21,
+            "middle": null,
+            "middle_holds": null,
+            "base": "tablet",
+            "units_per_top": 21,
+            "status": "confirmed"
+        },
+        "source_invoices": "CRSI-ST1-01-0004777",
+        "notes": "Printed of 21."
+    },
+    {
+        "name": "LARGOPEN 250 (Amoxicillin)",
+        "generic_name": "Amoxicillin",
+        "strength": "250mg/5ml",
+        "form": "suspension",
+        "kind": "medicine",
+        "category": "Antibiotics",
+        "packing": {
+            "top": "bottle",
+            "top_holds": 1,
+            "middle": null,
+            "middle_holds": null,
+            "base": "bottle",
+            "units_per_top": 1,
+            "status": "confirmed"
+        },
+        "source_invoices": "CSI-TSA-TS-00000063",
+        "notes": "One bottle per pack."
+    },
+    {
+        "name": "Metrolag (Metronidazole)",
+        "generic_name": "Metronidazole",
+        "strength": "250mg",
+        "form": "tablet",
+        "kind": "medicine",
+        "category": "Antibiotics",
+        "packing": {
+            "top": "pack",
+            "top_holds": 20,
+            "middle": null,
+            "middle_holds": null,
+            "base": "tablet",
+            "units_per_top": 20,
+            "status": "confirmed"
+        },
+        "source_invoices": "CR-00016960",
+        "notes": "Printed of 20."
+    },
+    {
+        "name": "Miraclin (Doxycycline)",
+        "generic_name": "Doxycycline",
+        "strength": "100mg",
+        "form": "capsule",
+        "kind": "medicine",
+        "category": "Antibiotics",
+        "packing": {
+            "top": "pack",
+            "top_holds": 10,
+            "middle": null,
+            "middle_holds": null,
+            "base": "capsule",
+            "units_per_top": 10,
+            "status": "confirmed"
+        },
+        "source_invoices": "CR-00016546",
+        "notes": "form assumed capsule Printed of 10."
+    },
+    {
+        "name": "Paediatric Co-Trimoxazole",
+        "generic_name": "Co-trimoxazole",
+        "strength": "240mg/5ml",
+        "form": "suspension",
+        "kind": "medicine",
+        "category": "Antibiotics",
+        "packing": {
+            "top": "bottle",
+            "top_holds": 1,
+            "middle": null,
+            "middle_holds": null,
+            "base": "bottle",
+            "units_per_top": 1,
+            "status": "confirmed"
+        },
+        "source_invoices": "CSI-TSA-TS-00000063",
+        "notes": "One bottle per pack."
+    },
+    {
+        "name": "Tinidazole (Amtiba)",
+        "generic_name": "Tinidazole",
+        "strength": "500mg",
+        "form": "tablet",
+        "kind": "medicine",
+        "category": "Antibiotics",
+        "packing": {
+            "top": "pack",
+            "top_holds": null,
+            "middle": null,
+            "middle_holds": null,
+            "base": null,
+            "units_per_top": null,
+            "status": "missing"
+        },
+        "source_invoices": "CR-00016960",
+        "notes": "Pack count not printed; no base unit set. PACK COUNT MISSING - no base unit set; confirm before import."
+    },
+    {
+        "name": "Travilan",
+        "generic_name": "",
+        "strength": "5ml",
+        "form": "injection",
+        "kind": "medicine",
+        "category": "Antibiotics",
+        "packing": {
+            "top": "vial",
+            "top_holds": 1,
+            "middle": null,
+            "middle_holds": null,
+            "base": "vial",
+            "units_per_top": 1,
+            "status": "confirmed"
+        },
+        "source_invoices": "CRSI-ST1-01-0014522",
+        "notes": "5ml injection; generic not printed. One vial per pack."
+    },
+    {
+        "name": "Zithrotel (Azithromycin)",
+        "generic_name": "Azithromycin",
+        "strength": "500mg",
+        "form": "tablet",
+        "kind": "medicine",
+        "category": "Antibiotics",
+        "packing": {
+            "top": "pack",
+            "top_holds": 3,
+            "middle": null,
+            "middle_holds": null,
+            "base": "tablet",
+            "units_per_top": 3,
+            "status": "confirmed"
+        },
+        "source_invoices": "CRSI-ST1-01-0004776;CR-00016964",
+        "notes": "Printed of 3."
+    },
+    {
+        "name": "Acyclovir",
+        "generic_name": "Acyclovir",
+        "strength": "400mg",
+        "form": "tablet",
+        "kind": "medicine",
+        "category": "Antivirals",
+        "packing": {
+            "top": "pack",
+            "top_holds": 10,
+            "middle": "strip",
+            "middle_holds": 10,
+            "base": "tablet",
+            "units_per_top": 100,
+            "status": "confirmed"
+        },
+        "source_invoices": "CR-00016961",
+        "notes": "Printed 10*10."
+    },
+    {
+        "name": "Acyclovir (Lovrac)",
+        "generic_name": "Acyclovir",
+        "strength": "5%",
+        "form": "cream",
+        "kind": "medicine",
+        "category": "Antivirals",
+        "packing": {
+            "top": "pack",
+            "top_holds": null,
+            "middle": null,
+            "middle_holds": null,
+            "base": null,
+            "units_per_top": null,
+            "status": "missing"
+        },
+        "source_invoices": "CRSI-ST1-01-0014522",
+        "notes": "Pack count not printed. Pack count not printed; no base unit set. PACK COUNT MISSING - no base unit set; confirm before import."
+    },
+    {
+        "name": "Acyclovir Cream",
+        "generic_name": "Acyclovir",
+        "strength": "5% 5g",
+        "form": "cream",
+        "kind": "medicine",
+        "category": "Antivirals",
+        "packing": {
+            "top": "tube",
+            "top_holds": 1,
+            "middle": null,
+            "middle_holds": null,
+            "base": "tube",
+            "units_per_top": 1,
+            "status": "confirmed"
+        },
+        "source_invoices": "CR-00016961",
+        "notes": "One tube per pack."
+    },
+    {
+        "name": "Adipin (Amlodipine)",
+        "generic_name": "Amlodipine",
+        "strength": "5mg",
+        "form": "tablet",
+        "kind": "medicine",
+        "category": "Cardiovascular",
+        "packing": {
+            "top": "pack",
+            "top_holds": 10,
+            "middle": "strip",
+            "middle_holds": 10,
+            "base": "tablet",
+            "units_per_top": 100,
+            "status": "confirmed"
+        },
+        "source_invoices": "CRSI-ST1-01-0004777",
+        "notes": "Printed 10*10."
+    },
+    {
+        "name": "Amlo Denk",
+        "generic_name": "",
+        "strength": "10mg",
+        "form": "tablet",
+        "kind": "medicine",
+        "category": "Cardiovascular",
+        "packing": {
+            "top": "pack",
+            "top_holds": 5,
+            "middle": "strip",
+            "middle_holds": 10,
+            "base": "tablet",
+            "units_per_top": 50,
+            "status": "confirmed"
+        },
+        "source_invoices": "CRSI-ST1-01-00059??",
+        "notes": "Generic not printed; strength 5mg/10mg is amlodipine. Existing seeder has 5+5 and 10*10 - correct before import. invoice says 5*10 = 50; seeder has 5+5 and 10*10 Printed 5*10."
+    },
+    {
+        "name": "Amlo Denk",
+        "generic_name": "",
+        "strength": "5mg",
+        "form": "tablet",
+        "kind": "medicine",
+        "category": "Cardiovascular",
+        "packing": {
+            "top": "pack",
+            "top_holds": 50,
+            "middle": null,
+            "middle_holds": null,
+            "base": "tablet",
+            "units_per_top": 50,
+            "status": "confirmed"
+        },
+        "source_invoices": "CRSI-ST1-01-00059??",
+        "notes": "Generic not printed; strength 5mg/10mg is amlodipine. Existing seeder has 5+5 and 10*10 - correct before import. Printed of 50."
+    },
+    {
+        "name": "Atenolol Denk",
+        "generic_name": "",
+        "strength": "50mg",
+        "form": "tablet",
+        "kind": "medicine",
+        "category": "Cardiovascular",
+        "packing": {
+            "top": "pack",
+            "top_holds": 10,
+            "middle": "strip",
+            "middle_holds": 10,
+            "base": "tablet",
+            "units_per_top": 100,
+            "status": "confirmed"
+        },
+        "source_invoices": "CRSI-ST1-01-0004777",
+        "notes": "Printed 10*10."
+    },
+    {
+        "name": "Ateroz (Atorvastatin)",
+        "generic_name": "Atorvastatin",
+        "strength": "20mg",
+        "form": "tablet",
+        "kind": "medicine",
+        "category": "Cardiovascular",
+        "packing": {
+            "top": "pack",
+            "top_holds": 3,
+            "middle": "strip",
+            "middle_holds": 10,
+            "base": "tablet",
+            "units_per_top": 30,
+            "status": "confirmed"
+        },
+        "source_invoices": "CSI-ST1-01-0001973",
+        "notes": "Printed 3*10."
+    },
+    {
+        "name": "Ateroz (Atorvastatin)",
+        "generic_name": "Atorvastatin",
+        "strength": "40mg",
+        "form": "tablet",
+        "kind": "medicine",
+        "category": "Cardiovascular",
+        "packing": {
+            "top": "pack",
+            "top_holds": 3,
+            "middle": "strip",
+            "middle_holds": 10,
+            "base": "tablet",
+            "units_per_top": 30,
+            "status": "confirmed"
+        },
+        "source_invoices": "CRSI-ST1-01-0004777",
+        "notes": "Printed 3*10."
+    },
+    {
+        "name": "Ateroz (Atorvastatin)",
+        "generic_name": "Atorvastatin",
+        "strength": "80mg",
+        "form": "tablet",
+        "kind": "medicine",
+        "category": "Cardiovascular",
+        "packing": {
+            "top": "pack",
+            "top_holds": 3,
+            "middle": "strip",
+            "middle_holds": 10,
+            "base": "tablet",
+            "units_per_top": 30,
+            "status": "confirmed"
+        },
+        "source_invoices": "CSI-ST1-01-0001973",
+        "notes": "Printed 3*10."
+    },
+    {
+        "name": "Bisor (Bisoprolol)",
+        "generic_name": "Bisoprolol",
+        "strength": "5mg",
+        "form": "tablet",
+        "kind": "medicine",
+        "category": "Cardiovascular",
+        "packing": {
+            "top": "pack",
+            "top_holds": 30,
+            "middle": null,
+            "middle_holds": null,
+            "base": "tablet",
+            "units_per_top": 30,
+            "status": "confirmed"
+        },
+        "source_invoices": "CRSI-ST1-01-00059??",
+        "notes": "price cut off; UOM overwritten Box/Pk Printed of 30."
+    },
+    {
+        "name": "Co-Losar Denk (Losartan+HCTZ)",
+        "generic_name": "Losartan+HCTZ",
+        "strength": "50mg/12.5mg",
+        "form": "tablet",
+        "kind": "medicine",
+        "category": "Cardiovascular",
+        "packing": {
+            "top": "pack",
+            "top_holds": 28,
+            "middle": null,
+            "middle_holds": null,
+            "base": "tablet",
+            "units_per_top": 28,
+            "status": "confirmed"
+        },
+        "source_invoices": "CRSI-ST1-01-0000797",
+        "notes": "Printed of 28."
+    },
+    {
+        "name": "Convenium Plus",
+        "generic_name": "",
+        "strength": "300/12.5",
+        "form": "tablet",
+        "kind": "medicine",
+        "category": "Cardiovascular",
+        "packing": {
+            "top": "pack",
+            "top_holds": 30,
+            "middle": null,
+            "middle_holds": null,
+            "base": "tablet",
+            "units_per_top": 30,
+            "status": "confirmed"
+        },
+        "source_invoices": "CSI-ST1-01-0001973",
+        "notes": "300/12.5 is a different strength from the seeder 150/12.5. seeder has 150/12.5; this is a different strength Printed of 30."
+    },
+    {
+        "name": "Coronis (Carvedilol)",
+        "generic_name": "Carvedilol",
+        "strength": "6.25mg",
+        "form": "tablet",
+        "kind": "medicine",
+        "category": "Cardiovascular",
+        "packing": {
+            "top": "pack",
+            "top_holds": 2,
+            "middle": "strip",
+            "middle_holds": 14,
+            "base": "tablet",
+            "units_per_top": 28,
+            "status": "confirmed"
+        },
+        "source_invoices": "CSI-ST1-01-0001973",
+        "notes": "Printed 2*14."
+    },
+    {
+        "name": "Enalapril",
+        "generic_name": "Enalapril",
+        "strength": "5mg",
+        "form": "tablet",
+        "kind": "medicine",
+        "category": "Cardiovascular",
+        "packing": {
+            "top": "pack",
+            "top_holds": null,
+            "middle": null,
+            "middle_holds": null,
+            "base": null,
+            "units_per_top": null,
+            "status": "missing"
+        },
+        "source_invoices": "CSI-ST1-01-0000015",
+        "notes": "batch unclear Pack count not printed; no base unit set. PACK COUNT MISSING - no base unit set; confirm before import."
+    },
+    {
+        "name": "Livercol (Rosuvastatin)",
+        "generic_name": "Rosuvastatin",
+        "strength": "20mg",
+        "form": "tablet",
+        "kind": "medicine",
+        "category": "Cardiovascular",
+        "packing": {
+            "top": "pack",
+            "top_holds": 2,
+            "middle": "strip",
+            "middle_holds": 14,
+            "base": "tablet",
+            "units_per_top": 28,
+            "status": "confirmed"
+        },
+        "source_invoices": "CRSI-ST1-01-000xxxx",
+        "notes": "invoice number truncated Printed 2*14."
+    },
+    {
+        "name": "Lorvast (Atorvastatin)",
+        "generic_name": "Atorvastatin",
+        "strength": "40mg",
+        "form": "tablet",
+        "kind": "medicine",
+        "category": "Cardiovascular",
+        "packing": {
+            "top": "pack",
+            "top_holds": 3,
+            "middle": "strip",
+            "middle_holds": 10,
+            "base": "tablet",
+            "units_per_top": 30,
+            "status": "confirmed"
+        },
+        "source_invoices": "CRSI-ST1-01-0004777",
+        "notes": "Printed 3*10."
+    },
+    {
+        "name": "Losar-Denk (Losartan)",
+        "generic_name": "Losartan",
+        "strength": "25mg",
+        "form": "tablet",
+        "kind": "medicine",
+        "category": "Cardiovascular",
+        "packing": {
+            "top": "pack",
+            "top_holds": 2,
+            "middle": "strip",
+            "middle_holds": 14,
+            "base": "tablet",
+            "units_per_top": 28,
+            "status": "confirmed"
+        },
+        "source_invoices": "CSI-ST1-01-0001973",
+        "notes": "Printed 2*14."
+    },
+    {
+        "name": "Losar-Denk (Losartan)",
+        "generic_name": "Losartan",
+        "strength": "50mg",
+        "form": "tablet",
+        "kind": "medicine",
+        "category": "Cardiovascular",
+        "packing": {
+            "top": "pack",
+            "top_holds": null,
+            "middle": null,
+            "middle_holds": null,
+            "base": null,
+            "units_per_top": null,
+            "status": "missing"
+        },
+        "source_invoices": "CSI-ST1-01-0001973",
+        "notes": "Pack count not printed; no base unit set. PACK COUNT MISSING - no base unit set; confirm before import."
+    },
+    {
+        "name": "Nifedipine",
+        "generic_name": "Nifedipine",
+        "strength": "20mg",
+        "form": "tablet",
+        "kind": "medicine",
+        "category": "Cardiovascular",
+        "packing": {
+            "top": "pack",
+            "top_holds": null,
+            "middle": null,
+            "middle_holds": null,
+            "base": null,
+            "units_per_top": null,
+            "status": "missing"
+        },
+        "source_invoices": "CSI-ST1-01-0000015",
+        "notes": "batch unclear Pack count not printed; no base unit set. PACK COUNT MISSING - no base unit set; confirm before import."
+    },
+    {
+        "name": "Pixab (Apixaban)",
+        "generic_name": "Apixaban",
+        "strength": "2.5mg",
+        "form": "tablet",
+        "kind": "medicine",
+        "category": "Cardiovascular",
+        "packing": {
+            "top": "pack",
+            "top_holds": 30,
+            "middle": null,
+            "middle_holds": null,
+            "base": "tablet",
+            "units_per_top": 30,
+            "status": "confirmed"
+        },
+        "source_invoices": "00015500",
+        "notes": "Printed of 30."
+    },
+    {
+        "name": "Rosuvastatin (RosuNor)",
+        "generic_name": "Rosuvastatin",
+        "strength": "20mg",
+        "form": "tablet",
+        "kind": "medicine",
+        "category": "Cardiovascular",
+        "packing": {
+            "top": "pack",
+            "top_holds": 28,
+            "middle": null,
+            "middle_holds": null,
+            "base": "tablet",
+            "units_per_top": 28,
+            "status": "confirmed"
+        },
+        "source_invoices": "CRSI-ST1-01-0002370",
+        "notes": "Printed of 28."
+    },
+    {
+        "name": "Roxipinn",
+        "generic_name": "Rivaroxaban",
+        "strength": "10mg",
+        "form": "tablet",
+        "kind": "medicine",
+        "category": "Cardiovascular",
+        "packing": {
+            "top": "pack",
+            "top_holds": 30,
+            "middle": null,
+            "middle_holds": null,
+            "base": "tablet",
+            "units_per_top": 30,
+            "status": "confirmed"
+        },
+        "source_invoices": "CRSI-ST1-01-00059??",
+        "notes": "invoice number truncated at right edge Printed of 30."
+    },
+    {
+        "name": "Roxipinn (Rivaroxaban)",
+        "generic_name": "Rivaroxaban",
+        "strength": "20mg",
+        "form": "tablet",
+        "kind": "medicine",
+        "category": "Cardiovascular",
+        "packing": {
+            "top": "pack",
+            "top_holds": 30,
+            "middle": null,
+            "middle_holds": null,
+            "base": "tablet",
+            "units_per_top": 30,
+            "status": "confirmed"
+        },
+        "source_invoices": "CSI-ST1-01-0001973",
+        "notes": "Printed of 30."
+    },
+    {
+        "name": "Sidagrel",
+        "generic_name": "",
+        "strength": "75mg",
+        "form": "tablet",
+        "kind": "medicine",
+        "category": "Cardiovascular",
+        "packing": {
+            "top": "pack",
+            "top_holds": 4,
+            "middle": "strip",
+            "middle_holds": 7,
+            "base": "tablet",
+            "units_per_top": 28,
+            "status": "confirmed"
+        },
+        "source_invoices": "CSI-ST1-01-0000015",
+        "notes": "75mg; likely clopidogrel but generic not printed. Printed 4*7."
+    },
+    {
+        "name": "Valcodin",
+        "generic_name": "",
+        "strength": "10mg/160mg",
+        "form": "tablet",
+        "kind": "medicine",
+        "category": "Cardiovascular",
+        "packing": {
+            "top": "pack",
+            "top_holds": 2,
+            "middle": "strip",
+            "middle_holds": 14,
+            "base": "tablet",
+            "units_per_top": 28,
+            "status": "confirmed"
+        },
+        "source_invoices": "00015559;CRSI-ST1-01-0002370",
+        "notes": "Strength 5/160 and 10/160 is amlodipine/valsartan. Existing seeder has it as Amoxicillin/Clavulanate - wrong; correct before import. Printed 2*14."
+    },
+    {
+        "name": "Valcodin",
+        "generic_name": "",
+        "strength": "5mg/160mg",
+        "form": "tablet",
+        "kind": "medicine",
+        "category": "Cardiovascular",
+        "packing": {
+            "top": "pack",
+            "top_holds": 2,
+            "middle": "strip",
+            "middle_holds": 14,
+            "base": "tablet",
+            "units_per_top": 28,
+            "status": "confirmed"
+        },
+        "source_invoices": "CR-00016960;CRSI-ST1-01-0002370",
+        "notes": "Strength 5/160 and 10/160 is amlodipine/valsartan. Existing seeder has it as Amoxicillin/Clavulanate - wrong; correct before import. Printed 2*14."
+    },
+    {
+        "name": "Varoxa (Rivaroxaban)",
+        "generic_name": "Rivaroxaban",
+        "strength": "20mg",
+        "form": "tablet",
+        "kind": "medicine",
+        "category": "Cardiovascular",
+        "packing": {
+            "top": "pack",
+            "top_holds": 30,
+            "middle": null,
+            "middle_holds": null,
+            "base": "tablet",
+            "units_per_top": 30,
+            "status": "confirmed"
+        },
+        "source_invoices": "CRSI-ST1-01-0004776",
+        "notes": "Printed of 30."
+    },
+    {
+        "name": "Amaryl (Glimepiride)",
+        "generic_name": "Glimepiride",
+        "strength": "4mg",
+        "form": "tablet",
+        "kind": "medicine",
+        "category": "Chronic Care",
+        "packing": {
+            "top": "pack",
+            "top_holds": 2,
+            "middle": "strip",
+            "middle_holds": 15,
+            "base": "tablet",
+            "units_per_top": 30,
+            "status": "confirmed"
+        },
+        "source_invoices": "CSI-ST1-01-0001973",
+        "notes": "Printed 2*15."
+    },
+    {
+        "name": "Flozip-10 (Dapagliflozin)",
+        "generic_name": "Dapagliflozin",
+        "strength": "10mg",
+        "form": "tablet",
+        "kind": "medicine",
+        "category": "Chronic Care",
+        "packing": {
+            "top": "pack",
+            "top_holds": 30,
+            "middle": null,
+            "middle_holds": null,
+            "base": "tablet",
+            "units_per_top": 30,
+            "status": "confirmed"
+        },
+        "source_invoices": "CSI-ST1-01-0001973",
+        "notes": "Printed of 30."
+    },
+    {
+        "name": "Flozip-M (Dapagliflozin+Metformin)",
+        "generic_name": "Dapagliflozin+Metformin",
+        "strength": "5mg/1000mg",
+        "form": "tablet",
+        "kind": "medicine",
+        "category": "Chronic Care",
+        "packing": {
+            "top": "pack",
+            "top_holds": null,
+            "middle": null,
+            "middle_holds": null,
+            "base": null,
+            "units_per_top": null,
+            "status": "missing"
+        },
+        "source_invoices": "CRSI-ST1-01-0000797;CSI-ST1-01-0001973",
+        "notes": "Pack count not printed; no base unit set. PACK COUNT MISSING - no base unit set; confirm before import."
+    },
+    {
+        "name": "Gliclazide (Glimepiride)",
+        "generic_name": "Gliclazide / Glimepiride (conflict)",
+        "strength": "4mg",
+        "form": "tablet",
+        "kind": "medicine",
+        "category": "Chronic Care",
+        "packing": {
+            "top": "pack",
+            "top_holds": 3,
+            "middle": "strip",
+            "middle_holds": 10,
+            "base": "tablet",
+            "units_per_top": 30,
+            "status": "confirmed"
+        },
+        "source_invoices": "00015500;CR-00016964",
+        "notes": "SAFETY: label says Gliclazide, generic printed Glimepiride. Confirm before import. name/generic conflict: gliclazide vs glimepiride Printed 3*10."
+    },
+    {
+        "name": "Glipinn M (Sitagliptin+Metformin)",
+        "generic_name": "Sitagliptin+Metformin",
+        "strength": "50/1000",
+        "form": "tablet",
+        "kind": "medicine",
+        "category": "Chronic Care",
+        "packing": {
+            "top": "pack",
+            "top_holds": null,
+            "middle": null,
+            "middle_holds": null,
+            "base": null,
+            "units_per_top": null,
+            "status": "missing"
+        },
+        "source_invoices": "00015500",
+        "notes": "Pack count not printed; no base unit set. PACK COUNT MISSING - no base unit set; confirm before import."
+    },
+    {
+        "name": "Vildabet (Vildagliptin+Metformin)",
+        "generic_name": "Vildagliptin+Metformin",
+        "strength": "50/1000",
+        "form": "tablet",
+        "kind": "medicine",
+        "category": "Chronic Care",
+        "packing": {
+            "top": "pack",
+            "top_holds": null,
+            "middle": null,
+            "middle_holds": null,
+            "base": null,
+            "units_per_top": null,
+            "status": "missing"
+        },
+        "source_invoices": "00015879",
+        "notes": "Pack count not printed; no base unit set. PACK COUNT MISSING - no base unit set; confirm before import."
+    },
+    {
+        "name": "Betalab N (Betamethasone+Neomycin)",
+        "generic_name": "Betamethasone+Neomycin",
+        "strength": "-",
+        "form": "cream",
+        "kind": "medicine",
+        "category": "Dermatology",
+        "packing": {
+            "top": "tube",
+            "top_holds": 1,
+            "middle": null,
+            "middle_holds": null,
+            "base": "tube",
+            "units_per_top": 1,
+            "status": "confirmed"
+        },
+        "source_invoices": "CRSI-ST1-01-0000797",
+        "notes": "One tube per pack."
+    },
+    {
+        "name": "Deloro",
+        "generic_name": "",
+        "strength": "0.05% 25g",
+        "form": "cream",
+        "kind": "medicine",
+        "category": "Dermatology",
+        "packing": {
+            "top": "box",
+            "top_holds": 1,
+            "middle": null,
+            "middle_holds": null,
+            "base": "tube",
+            "units_per_top": 1,
+            "status": "assumed"
+        },
+        "source_invoices": "CRSI-ST1-01-0014522",
+        "notes": "UOM Box; contents unknown Box assumed to hold one 25g tube. Pack count assumed - confirm."
+    },
+    {
+        "name": "Diaper Rash Cream",
+        "generic_name": "",
+        "strength": "50g",
+        "form": "cream",
+        "kind": "medicine",
+        "category": "Dermatology",
+        "packing": {
+            "top": "tube",
+            "top_holds": 1,
+            "middle": null,
+            "middle_holds": null,
+            "base": "tube",
+            "units_per_top": 1,
+            "status": "confirmed"
+        },
+        "source_invoices": "CRSI-ST1-01-0014522",
+        "notes": "One tube per pack."
+    },
+    {
+        "name": "Enderm GM",
+        "generic_name": "Clobetasol/Gentamicin/Miconazole",
+        "strength": "15g",
+        "form": "cream",
+        "kind": "medicine",
+        "category": "Dermatology",
+        "packing": {
+            "top": "tube",
+            "top_holds": 1,
+            "middle": null,
+            "middle_holds": null,
+            "base": "tube",
+            "units_per_top": 1,
+            "status": "confirmed"
+        },
+        "source_invoices": "CSI-ST1-01-0016241;CR-00016960",
+        "notes": "15g tube; merged from two invoice spellings. 15g tube."
+    },
+    {
+        "name": "Fediquine",
+        "generic_name": "",
+        "strength": "4%",
+        "form": "cream",
+        "kind": "medicine",
+        "category": "Dermatology",
+        "packing": {
+            "top": "tube",
+            "top_holds": 1,
+            "middle": null,
+            "middle_holds": null,
+            "base": "tube",
+            "units_per_top": 1,
+            "status": "confirmed"
+        },
+        "source_invoices": "CRSI-ST1-01-0000797",
+        "notes": "One tube per pack."
+    },
+    {
+        "name": "Forhil Foot Cream",
+        "generic_name": "",
+        "strength": "30g",
+        "form": "cream",
+        "kind": "medicine",
+        "category": "Dermatology",
+        "packing": {
+            "top": "tube",
+            "top_holds": 1,
+            "middle": null,
+            "middle_holds": null,
+            "base": "tube",
+            "units_per_top": 1,
+            "status": "confirmed"
+        },
+        "source_invoices": "CA-00009742",
+        "notes": "One tube per pack."
+    },
+    {
+        "name": "GVI",
+        "generic_name": "",
+        "strength": "1% 30ml",
+        "form": "solution",
+        "kind": "medicine",
+        "category": "Dermatology",
+        "packing": {
+            "top": "bottle",
+            "top_holds": 1,
+            "middle": null,
+            "middle_holds": null,
+            "base": "bottle",
+            "units_per_top": 1,
+            "status": "confirmed"
+        },
+        "source_invoices": "CSI-ST1-01-0016241",
+        "notes": "1% 30ml antiseptic; generic not printed. One bottle per pack."
+    },
+    {
+        "name": "Hydrocortisone Cream (Cortileb)",
+        "generic_name": "Hydrocortisone",
+        "strength": "15g",
+        "form": "cream",
+        "kind": "medicine",
+        "category": "Dermatology",
+        "packing": {
+            "top": "tube",
+            "top_holds": 1,
+            "middle": null,
+            "middle_holds": null,
+            "base": "tube",
+            "units_per_top": 1,
+            "status": "confirmed"
+        },
+        "source_invoices": "CR-00016960",
+        "notes": "One tube per pack."
+    },
+    {
+        "name": "Ketazol Cream",
+        "generic_name": "",
+        "strength": "40g",
+        "form": "cream",
+        "kind": "medicine",
+        "category": "Dermatology",
+        "packing": {
+            "top": "tube",
+            "top_holds": 1,
+            "middle": null,
+            "middle_holds": null,
+            "base": "tube",
+            "units_per_top": 1,
+            "status": "confirmed"
+        },
+        "source_invoices": "CR-00016960",
+        "notes": "Ketoconazole brand; generic not printed. One tube per pack."
+    },
+    {
+        "name": "Nitrofurazone Ointment",
+        "generic_name": "",
+        "strength": "50g",
+        "form": "ointment",
+        "kind": "medicine",
+        "category": "Dermatology",
+        "packing": {
+            "top": "tube",
+            "top_holds": 1,
+            "middle": null,
+            "middle_holds": null,
+            "base": "tube",
+            "units_per_top": 1,
+            "status": "confirmed"
+        },
+        "source_invoices": "CRSI-ST1-01-00059??",
+        "notes": "price cut off One tube per pack."
+    },
+    {
+        "name": "Tridact Gel (Clindamycin)",
+        "generic_name": "Clindamycin",
+        "strength": "1% 20g",
+        "form": "gel",
+        "kind": "medicine",
+        "category": "Dermatology",
+        "packing": {
+            "top": "tube",
+            "top_holds": 1,
+            "middle": null,
+            "middle_holds": null,
+            "base": "tube",
+            "units_per_top": 1,
+            "status": "confirmed"
+        },
+        "source_invoices": "CRSI-ST1-01-00059??",
+        "notes": "1% 20g. price cut off One tube per pack."
+    },
+    {
+        "name": "Flixase (Fluticasone Furoate)",
+        "generic_name": "Fluticasone furoate",
+        "strength": "27.5mcg",
+        "form": "nasal spray",
+        "kind": "medicine",
+        "category": "ENT",
+        "packing": {
+            "top": "pack",
+            "top_holds": 1,
+            "middle": null,
+            "middle_holds": null,
+            "base": "pack",
+            "units_per_top": 1,
+            "status": "assumed"
+        },
+        "source_invoices": "CR-00016961",
+        "notes": "One spray per pack; Doz UOM unclear. UOM \"Doz\" unclear One spray bottle per pack; Doz UOM unclear. Pack count assumed - confirm."
+    },
+    {
+        "name": "Saline Nasal Spray",
+        "generic_name": "Sodium chloride",
+        "strength": "0.65% 20ml",
+        "form": "nasal spray",
+        "kind": "medicine",
+        "category": "ENT",
+        "packing": {
+            "top": "box",
+            "top_holds": 12,
+            "middle": null,
+            "middle_holds": null,
+            "base": "bottle",
+            "units_per_top": 12,
+            "status": "confirmed"
+        },
+        "source_invoices": "CRSI-ST1-01-0014522;CRSI-ST1-01-0004777",
+        "notes": "0.65% 20ml; bought by bottle and by dozen. UOM DOZEN = 12 units per dozen Bought by bottle and by dozen; 12 bottles per dozen."
+    },
+    {
+        "name": "Tabunex",
+        "generic_name": "",
+        "strength": "-",
+        "form": "nasal drop",
+        "kind": "medicine",
+        "category": "ENT",
+        "packing": {
+            "top": "tube",
+            "top_holds": 1,
+            "middle": null,
+            "middle_holds": null,
+            "base": "tube",
+            "units_per_top": 1,
+            "status": "confirmed"
+        },
+        "source_invoices": "CR-00016960",
+        "notes": "UOM Tube for nasal drop One tube per pack."
+    },
+    {
+        "name": "Castor Oil",
+        "generic_name": "",
+        "strength": "60ml",
+        "form": "oil",
+        "kind": "medicine",
+        "category": "Gastrointestinal",
+        "packing": {
+            "top": "bottle",
+            "top_holds": 1,
+            "middle": null,
+            "middle_holds": null,
+            "base": "bottle",
+            "units_per_top": 1,
+            "status": "confirmed"
+        },
+        "source_invoices": "CRSI-ST1-01-0004776",
+        "notes": "One bottle per pack."
+    },
+    {
+        "name": "Imatox (Ondansetron)",
+        "generic_name": "Ondansetron",
+        "strength": "4mg",
+        "form": "tablet",
+        "kind": "medicine",
+        "category": "Gastrointestinal",
+        "packing": {
+            "top": "pack",
+            "top_holds": 1,
+            "middle": "strip",
+            "middle_holds": 10,
+            "base": "tablet",
+            "units_per_top": 10,
+            "status": "confirmed"
+        },
+        "source_invoices": "CR-00016961",
+        "notes": "Printed 1*10."
+    },
+    {
+        "name": "Imatox (Ondansetron)",
+        "generic_name": "Ondansetron",
+        "strength": "8mg",
+        "form": "tablet",
+        "kind": "medicine",
+        "category": "Gastrointestinal",
+        "packing": {
+            "top": "pack",
+            "top_holds": 1,
+            "middle": "strip",
+            "middle_holds": 10,
+            "base": "tablet",
+            "units_per_top": 10,
+            "status": "confirmed"
+        },
+        "source_invoices": "CR-00016961",
+        "notes": "Printed 1*10."
+    },
+    {
+        "name": "Imatox Inj (Ondansetron)",
+        "generic_name": "Ondansetron",
+        "strength": "4mg/2ml",
+        "form": "injection",
+        "kind": "medicine",
+        "category": "Gastrointestinal",
+        "packing": {
+            "top": "pack",
+            "top_holds": 5,
+            "middle": null,
+            "middle_holds": null,
+            "base": "ampoule",
+            "units_per_top": 5,
+            "status": "confirmed"
+        },
+        "source_invoices": "CR-00016964",
+        "notes": "batch unclear; resolves Imatox Injection pack count Printed of 5 ampoules."
+    },
+    {
+        "name": "Laxin (Bisacodyl)",
+        "generic_name": "Bisacodyl",
+        "strength": "10mg",
+        "form": "tablet",
+        "kind": "medicine",
+        "category": "Gastrointestinal",
+        "packing": {
+            "top": "pack",
+            "top_holds": 20,
+            "middle": null,
+            "middle_holds": null,
+            "base": "tablet",
+            "units_per_top": 20,
+            "status": "confirmed"
+        },
+        "source_invoices": "CSI-ST1-01-0002528",
+        "notes": "Printed of 20."
+    },
+    {
+        "name": "Lyte Mix Fruit Cocktail",
+        "generic_name": "",
+        "strength": "-",
+        "form": "ORS sachet",
+        "kind": "medicine",
+        "category": "Gastrointestinal",
+        "packing": {
+            "top": "box",
+            "top_holds": 12,
+            "middle": null,
+            "middle_holds": null,
+            "base": "sachet",
+            "units_per_top": 12,
+            "status": "confirmed"
+        },
+        "source_invoices": "CR-00016546",
+        "notes": "Printed of 12."
+    },
+    {
+        "name": "Lyte Mix Lemon",
+        "generic_name": "",
+        "strength": "-",
+        "form": "ORS sachet",
+        "kind": "medicine",
+        "category": "Gastrointestinal",
+        "packing": {
+            "top": "box",
+            "top_holds": 12,
+            "middle": null,
+            "middle_holds": null,
+            "base": "sachet",
+            "units_per_top": 12,
+            "status": "confirmed"
+        },
+        "source_invoices": "CR-00016546",
+        "notes": "Printed of 12."
+    },
+    {
+        "name": "ORS (Epharm)",
+        "generic_name": "ORS",
+        "strength": "20.5mg",
+        "form": "ORS sachet",
+        "kind": "medicine",
+        "category": "Gastrointestinal",
+        "packing": {
+            "top": "box",
+            "top_holds": 50,
+            "middle": null,
+            "middle_holds": null,
+            "base": "sachet",
+            "units_per_top": 50,
+            "status": "confirmed"
+        },
+        "source_invoices": "CR-00016964",
+        "notes": "Printed 20.5mg; ORS sachets are usually 20.5g - confirm. Printed of 50."
+    },
+    {
+        "name": "Oberem (Ondansetron)",
+        "generic_name": "Ondansetron",
+        "strength": "-",
+        "form": "syrup",
+        "kind": "medicine",
+        "category": "Gastrointestinal",
+        "packing": {
+            "top": "bottle",
+            "top_holds": 1,
+            "middle": null,
+            "middle_holds": null,
+            "base": "bottle",
+            "units_per_top": 1,
+            "status": "confirmed"
+        },
+        "source_invoices": "CA-00009742",
+        "notes": "One bottle per pack."
+    },
+    {
+        "name": "Pandev",
+        "generic_name": "",
+        "strength": "40mg",
+        "form": "tablet",
+        "kind": "medicine",
+        "category": "Gastrointestinal",
+        "packing": {
+            "top": "pack",
+            "top_holds": 14,
+            "middle": null,
+            "middle_holds": null,
+            "base": "tablet",
+            "units_per_top": 14,
+            "status": "confirmed"
+        },
+        "source_invoices": "CRSI-ST1-01-0014522",
+        "notes": "40mg/14; likely pantoprazole but generic not printed. Printed 40Mg/14 = 14 tablets."
+    },
+    {
+        "name": "Sediproct",
+        "generic_name": "",
+        "strength": "-",
+        "form": "suppository",
+        "kind": "medicine",
+        "category": "Gastrointestinal",
+        "packing": {
+            "top": "pack",
+            "top_holds": 6,
+            "middle": null,
+            "middle_holds": null,
+            "base": "suppository",
+            "units_per_top": 6,
+            "status": "confirmed"
+        },
+        "source_invoices": "CRSI-ST1-01-0004776",
+        "notes": "Printed of 6."
+    },
+    {
+        "name": "Back Up",
+        "generic_name": "",
+        "strength": "1.5mg",
+        "form": "tablet",
+        "kind": "medicine",
+        "category": "Gynecological",
+        "packing": {
+            "top": "box",
+            "top_holds": 10,
+            "middle": null,
+            "middle_holds": null,
+            "base": "tablet",
+            "units_per_top": 10,
+            "status": "confirmed"
+        },
+        "source_invoices": "CRSI-ST1-01-0002370;CSI-TSA-TS-00000063",
+        "notes": "Emergency contraceptive 1.5mg. Daga pack count was not printed; Supplier shows 10; printed invoice says 10; Daga count unprinted."
+    },
+    {
+        "name": "Primolut-N (Norethisterone)",
+        "generic_name": "Norethisterone",
+        "strength": "5mg",
+        "form": "tablet",
+        "kind": "medicine",
+        "category": "Gynecological",
+        "packing": {
+            "top": "pack",
+            "top_holds": 30,
+            "middle": null,
+            "middle_holds": null,
+            "base": "tablet",
+            "units_per_top": 30,
+            "status": "confirmed"
+        },
+        "source_invoices": "00015500",
+        "notes": "Printed of 30."
+    },
+    {
+        "name": "Levothyroxine (Euthyrox)",
+        "generic_name": "Levothyroxine",
+        "strength": "100mcg",
+        "form": "tablet",
+        "kind": "medicine",
+        "category": "Hormonal Medications",
+        "packing": {
+            "top": "pack",
+            "top_holds": 30,
+            "middle": null,
+            "middle_holds": null,
+            "base": "tablet",
+            "units_per_top": 30,
+            "status": "confirmed"
+        },
+        "source_invoices": "CRSI-ST1-01-0002370",
+        "notes": "Printed of 30."
+    },
+    {
+        "name": "Medocriptine (Bromocriptine)",
+        "generic_name": "Bromocriptine",
+        "strength": "2.5mg",
+        "form": "tablet",
+        "kind": "medicine",
+        "category": "Hormonal Medications",
+        "packing": {
+            "top": "pack",
+            "top_holds": 3,
+            "middle": "strip",
+            "middle_holds": 10,
+            "base": "tablet",
+            "units_per_top": 30,
+            "status": "confirmed"
+        },
+        "source_invoices": "CR-00016960",
+        "notes": "Printed 3*10."
+    },
+    {
+        "name": "PTU",
+        "generic_name": "Propylthiouracil",
+        "strength": "100mg",
+        "form": "tablet",
+        "kind": "medicine",
+        "category": "Hormonal Medications",
+        "packing": {
+            "top": "pack",
+            "top_holds": 10,
+            "middle": "strip",
+            "middle_holds": 10,
+            "base": "tablet",
+            "units_per_top": 100,
+            "status": "confirmed"
+        },
+        "source_invoices": "00015559;CR-00016964",
+        "notes": "Printed 10*10."
+    },
+    {
+        "name": "Gabapentin",
+        "generic_name": "",
+        "strength": "300mg",
+        "form": "capsule",
+        "kind": "medicine",
+        "category": "Neurology and Antiepileptics",
+        "packing": {
+            "top": "pack",
+            "top_holds": 5,
+            "middle": "strip",
+            "middle_holds": 10,
+            "base": "capsule",
+            "units_per_top": 50,
+            "status": "confirmed"
+        },
+        "source_invoices": "00015559",
+        "notes": "form assumed capsule; 5*10 = 50 Printed 5*10."
+    },
+    {
+        "name": "Gabapentin (Conventin)",
+        "generic_name": "Gabapentin",
+        "strength": "300mg",
+        "form": "capsule",
+        "kind": "medicine",
+        "category": "Neurology and Antiepileptics",
+        "packing": {
+            "top": "pack",
+            "top_holds": 30,
+            "middle": null,
+            "middle_holds": null,
+            "base": "capsule",
+            "units_per_top": 30,
+            "status": "confirmed"
+        },
+        "source_invoices": "CRSI-ST1-01-0000797",
+        "notes": "form assumed capsule Printed of 30."
+    },
+    {
+        "name": "Haloperidol",
+        "generic_name": "Haloperidol",
+        "strength": "1.5mg",
+        "form": "tablet",
+        "kind": "medicine",
+        "category": "Neurology and Antiepileptics",
+        "packing": {
+            "top": "pack",
+            "top_holds": 10,
+            "middle": "strip",
+            "middle_holds": 10,
+            "base": "tablet",
+            "units_per_top": 100,
+            "status": "confirmed"
+        },
+        "source_invoices": "00015500",
+        "notes": "Printed 10*10."
+    },
+    {
+        "name": "Pregabalin (Probion)",
+        "generic_name": "Pregabalin",
+        "strength": "75mg",
+        "form": "capsule",
+        "kind": "medicine",
+        "category": "Neurology and Antiepileptics",
+        "packing": {
+            "top": "pack",
+            "top_holds": 24,
+            "middle": null,
+            "middle_holds": null,
+            "base": "capsule",
+            "units_per_top": 24,
+            "status": "confirmed"
+        },
+        "source_invoices": "CRSI-ST1-01-0000797",
+        "notes": "Printed of 24."
+    },
+    {
+        "name": "Risperidone Remedica",
+        "generic_name": "Risperidone",
+        "strength": "2mg",
+        "form": "tablet",
+        "kind": "medicine",
+        "category": "Neurology and Antiepileptics",
+        "packing": {
+            "top": "pack",
+            "top_holds": 10,
+            "middle": "strip",
+            "middle_holds": 10,
+            "base": "tablet",
+            "units_per_top": 100,
+            "status": "confirmed"
+        },
+        "source_invoices": "CA-00009742",
+        "notes": "Printed 10*10."
+    },
+    {
+        "name": "Rispherm (Risperidone)",
+        "generic_name": "Risperidone",
+        "strength": "1mg",
+        "form": "tablet",
+        "kind": "medicine",
+        "category": "Neurology and Antiepileptics",
+        "packing": {
+            "top": "pack",
+            "top_holds": 30,
+            "middle": null,
+            "middle_holds": null,
+            "base": "tablet",
+            "units_per_top": 30,
+            "status": "confirmed"
+        },
+        "source_invoices": "CRSI-ST1-01-0003281",
+        "notes": "Printed of 30."
+    },
+    {
+        "name": "Sertralin (Aurarsert)",
+        "generic_name": "Sertralin",
+        "strength": "50mg",
+        "form": "tablet",
+        "kind": "medicine",
+        "category": "Neurology and Antiepileptics",
+        "packing": {
+            "top": "pack",
+            "top_holds": 28,
+            "middle": null,
+            "middle_holds": null,
+            "base": "tablet",
+            "units_per_top": 28,
+            "status": "confirmed"
+        },
+        "source_invoices": "00015500",
+        "notes": "Printed of 28."
+    },
+    {
+        "name": "Xenum",
+        "generic_name": "",
+        "strength": "10mg",
+        "form": "sachet",
+        "kind": "medicine",
+        "category": "Neurology and Antiepileptics",
+        "packing": {
+            "top": "pack",
+            "top_holds": 28,
+            "middle": null,
+            "middle_holds": null,
+            "base": "sachet",
+            "units_per_top": 28,
+            "status": "confirmed"
+        },
+        "source_invoices": "CRSI-ST1-01-0014522",
+        "notes": "10mg granules/sachet; generic not printed. form/strength need review Printed sachet of 28."
+    },
+    {
+        "name": "Bglau Eye Drop",
+        "generic_name": "",
+        "strength": "5ml",
+        "form": "eye drop",
+        "kind": "medicine",
+        "category": "Ophthalmology",
+        "packing": {
+            "top": "tube",
+            "top_holds": 1,
+            "middle": null,
+            "middle_holds": null,
+            "base": "tube",
+            "units_per_top": 1,
+            "status": "confirmed"
+        },
+        "source_invoices": "CRSI-ST1-01-0003281",
+        "notes": "One tube per pack."
+    },
+    {
+        "name": "Dexaflox (Dexamethasone+Ciprofloxacin)",
+        "generic_name": "Dexamethasone+Ciprofloxacin",
+        "strength": "0.1%/0.3%",
+        "form": "eye drop",
+        "kind": "medicine",
+        "category": "Ophthalmology",
+        "packing": {
+            "top": "tube",
+            "top_holds": 1,
+            "middle": null,
+            "middle_holds": null,
+            "base": "tube",
+            "units_per_top": 1,
+            "status": "confirmed"
+        },
+        "source_invoices": "CRSI-ST1-01-0003871",
+        "notes": "batch last digit unclear One tube per pack."
+    },
+    {
+        "name": "Dexagen T",
+        "generic_name": "",
+        "strength": "-",
+        "form": "ophthalmic solution",
+        "kind": "medicine",
+        "category": "Ophthalmology",
+        "packing": {
+            "top": "bottle",
+            "top_holds": 1,
+            "middle": null,
+            "middle_holds": null,
+            "base": "bottle",
+            "units_per_top": 1,
+            "status": "confirmed"
+        },
+        "source_invoices": "CRSI-ST1-01-0000797",
+        "notes": "One bottle per pack."
+    },
+    {
+        "name": "Dorzy-T (Dorzolamide+Timolol)",
+        "generic_name": "Dorzolamide+Timolol",
+        "strength": "2%/0.5%",
+        "form": "eye drop",
+        "kind": "medicine",
+        "category": "Ophthalmology",
+        "packing": {
+            "top": "tube",
+            "top_holds": 1,
+            "middle": null,
+            "middle_holds": null,
+            "base": "tube",
+            "units_per_top": 1,
+            "status": "confirmed"
+        },
+        "source_invoices": "CA-00009742;CSI-ST1-01-0001973",
+        "notes": "One tube per pack."
+    },
+    {
+        "name": "Zoxan (Ciprofloxacin)",
+        "generic_name": "Ciprofloxacin",
+        "strength": "-",
+        "form": "eye/ear drop",
+        "kind": "medicine",
+        "category": "Ophthalmology",
+        "packing": {
+            "top": "tube",
+            "top_holds": 1,
+            "middle": null,
+            "middle_holds": null,
+            "base": "tube",
+            "units_per_top": 1,
+            "status": "confirmed"
+        },
+        "source_invoices": "CRSI-ST1-01-0004777",
+        "notes": "One tube per pack."
+    },
+    {
+        "name": "Adams (Tadalafil)",
+        "generic_name": "Tadalafil",
+        "strength": "20mg",
+        "form": "tablet",
+        "kind": "medicine",
+        "category": "Other",
+        "packing": {
+            "top": "pack",
+            "top_holds": 4,
+            "middle": null,
+            "middle_holds": null,
+            "base": "tablet",
+            "units_per_top": 4,
+            "status": "confirmed"
+        },
+        "source_invoices": "CR-00016961",
+        "notes": "ED medicine; no urology category in the app. Printed of 4."
+    },
+    {
+        "name": "Alcohol",
+        "generic_name": "",
+        "strength": "96% 1L",
+        "form": "solution",
+        "kind": "medical_supply",
+        "category": "Other",
+        "packing": {
+            "top": "bottle",
+            "top_holds": 1,
+            "middle": null,
+            "middle_holds": null,
+            "base": "bottle",
+            "units_per_top": 1,
+            "status": "confirmed"
+        },
+        "source_invoices": "CSI-TSA-TS-00000063",
+        "notes": "96%, 1 litre. One bottle per pack."
+    },
+    {
+        "name": "Anethaine",
+        "generic_name": "",
+        "strength": "200mg/5ml",
+        "form": "suspension",
+        "kind": "medicine",
+        "category": "Other",
+        "packing": {
+            "top": "bottle",
+            "top_holds": 1,
+            "middle": null,
+            "middle_holds": null,
+            "base": "bottle",
+            "units_per_top": 1,
+            "status": "confirmed"
+        },
+        "source_invoices": "CSI-ST1-01-0000015",
+        "notes": "Generic not printed; confirm. One bottle per pack."
+    },
+    {
+        "name": "BP Apparatus (Folee)",
+        "generic_name": "Folee",
+        "strength": "-",
+        "form": "BP monitor",
+        "kind": "medical_supply",
+        "category": "Other",
+        "packing": {
+            "top": "pack",
+            "top_holds": 1,
+            "middle": null,
+            "middle_holds": null,
+            "base": "piece",
+            "units_per_top": 1,
+            "status": "confirmed"
+        },
+        "source_invoices": "CR-00016960",
+        "notes": "BP monitor with charger. No batch or expiry printed. no batch or expiry printed Single monitor."
+    },
+    {
+        "name": "Boso Therm Basic",
+        "generic_name": "",
+        "strength": "-",
+        "form": "thermometer",
+        "kind": "medical_supply",
+        "category": "Other",
+        "packing": {
+            "top": "piece",
+            "top_holds": 1,
+            "middle": null,
+            "middle_holds": null,
+            "base": "piece",
+            "units_per_top": 1,
+            "status": "confirmed"
+        },
+        "source_invoices": "CA-00009742;CR-00016960",
+        "notes": "Thermometer. One piece per pack."
+    },
+    {
+        "name": "Degra",
+        "generic_name": "",
+        "strength": "100mg",
+        "form": "tablet",
+        "kind": "medicine",
+        "category": "Other",
+        "packing": {
+            "top": "pack",
+            "top_holds": 4,
+            "middle": null,
+            "middle_holds": null,
+            "base": "tablet",
+            "units_per_top": 4,
+            "status": "confirmed"
+        },
+        "source_invoices": "CRSI-ST1-01-0004777",
+        "notes": "ED medicine; likely sildenafil but generic not printed. Printed of 4."
+    },
+    {
+        "name": "Degra",
+        "generic_name": "",
+        "strength": "50mg",
+        "form": "tablet",
+        "kind": "medicine",
+        "category": "Other",
+        "packing": {
+            "top": "pack",
+            "top_holds": 4,
+            "middle": null,
+            "middle_holds": null,
+            "base": "tablet",
+            "units_per_top": 4,
+            "status": "confirmed"
+        },
+        "source_invoices": "CRSI-ST1-01-0004777",
+        "notes": "ED medicine; likely sildenafil but generic not printed. Printed of 4."
+    },
+    {
+        "name": "Dextrose",
+        "generic_name": "Dextrose",
+        "strength": "40% 20ml",
+        "form": "injection",
+        "kind": "medicine",
+        "category": "Other",
+        "packing": {
+            "top": "box",
+            "top_holds": 50,
+            "middle": null,
+            "middle_holds": null,
+            "base": "ampoule",
+            "units_per_top": 50,
+            "status": "confirmed"
+        },
+        "source_invoices": "CR-00016961",
+        "notes": "Printed of 50."
+    },
+    {
+        "name": "Diphenhydramine (Koflyn)",
+        "generic_name": "Diphenhydramine",
+        "strength": "-",
+        "form": "syrup",
+        "kind": "medicine",
+        "category": "Other",
+        "packing": {
+            "top": "bottle",
+            "top_holds": 1,
+            "middle": null,
+            "middle_holds": null,
+            "base": "bottle",
+            "units_per_top": 1,
+            "status": "confirmed"
+        },
+        "source_invoices": "CR-00016961",
+        "notes": "Antihistamine; the app has no antihistamine category. One bottle per pack."
+    },
+    {
+        "name": "Diphenhydramine Syrup",
+        "generic_name": "Diphenhydramine",
+        "strength": "-",
+        "form": "syrup",
+        "kind": "medicine",
+        "category": "Other",
+        "packing": {
+            "top": "bottle",
+            "top_holds": 1,
+            "middle": null,
+            "middle_holds": null,
+            "base": "bottle",
+            "units_per_top": 1,
+            "status": "confirmed"
+        },
+        "source_invoices": "CA-00009742",
+        "notes": "Paediatric syrup. One bottle per pack."
+    },
+    {
+        "name": "Dutabit Plus (Dutasteride+Tamsulosin)",
+        "generic_name": "Dutasteride/Tamsulosin",
+        "strength": "-",
+        "form": "capsule",
+        "kind": "medicine",
+        "category": "Other",
+        "packing": {
+            "top": "pack",
+            "top_holds": 30,
+            "middle": null,
+            "middle_holds": null,
+            "base": "capsule",
+            "units_per_top": 30,
+            "status": "confirmed"
+        },
+        "source_invoices": "00015500",
+        "notes": "Urology; no urology category in the app. strength not printed Printed of 30."
+    },
+    {
+        "name": "Examination Glove",
+        "generic_name": "",
+        "strength": "-",
+        "form": "glove",
+        "kind": "medical_supply",
+        "category": "Other",
+        "packing": {
+            "top": "box",
+            "top_holds": 1,
+            "middle": null,
+            "middle_holds": null,
+            "base": "box",
+            "units_per_top": 1,
+            "status": "confirmed"
+        },
+        "source_invoices": "CSI-ST1-01-0016241",
+        "notes": "100 pcs per box. line totals do not reconcile to subtotal (gap 1684)"
+    },
+    {
+        "name": "Flamingo Arm Pouch (L)",
+        "generic_name": "L",
+        "strength": "L",
+        "form": "arm pouch",
+        "kind": "medical_supply",
+        "category": "Other",
+        "packing": {
+            "top": "piece",
+            "top_holds": 1,
+            "middle": null,
+            "middle_holds": null,
+            "base": "piece",
+            "units_per_top": 1,
+            "status": "confirmed"
+        },
+        "source_invoices": "CR-00016546",
+        "notes": "Size L. Single piece."
+    },
+    {
+        "name": "Flamingo Arm Pouch (M)",
+        "generic_name": "M",
+        "strength": "M",
+        "form": "arm pouch",
+        "kind": "medical_supply",
+        "category": "Other",
+        "packing": {
+            "top": "piece",
+            "top_holds": 1,
+            "middle": null,
+            "middle_holds": null,
+            "base": "piece",
+            "units_per_top": 1,
+            "status": "confirmed"
+        },
+        "source_invoices": "CR-00016546",
+        "notes": "Size M. Single piece."
+    },
+    {
+        "name": "Flamingo Pediatric Arm Sling",
+        "generic_name": "",
+        "strength": "-",
+        "form": "arm sling",
+        "kind": "medical_supply",
+        "category": "Other",
+        "packing": {
+            "top": "piece",
+            "top_holds": 1,
+            "middle": null,
+            "middle_holds": null,
+            "base": "piece",
+            "units_per_top": 1,
+            "status": "confirmed"
+        },
+        "source_invoices": "CR-00016546",
+        "notes": "Nursery, M. One piece per pack."
+    },
+    {
+        "name": "Flamingo Varicose Vein Stocking",
+        "generic_name": "",
+        "strength": "-",
+        "form": "stocking",
+        "kind": "medical_supply",
+        "category": "Other",
+        "packing": {
+            "top": "piece",
+            "top_holds": 1,
+            "middle": null,
+            "middle_holds": null,
+            "base": "piece",
+            "units_per_top": 1,
+            "status": "confirmed"
+        },
+        "source_invoices": "CRSI-ST1-01-0003871",
+        "notes": "Large. size L One piece per pack."
+    },
+    {
+        "name": "Gauze Swab",
+        "generic_name": "",
+        "strength": "10x10cm 8ply",
+        "form": "swab",
+        "kind": "medical_supply",
+        "category": "Other",
+        "packing": {
+            "top": "box",
+            "top_holds": 1,
+            "middle": null,
+            "middle_holds": null,
+            "base": "box",
+            "units_per_top": 1,
+            "status": "assumed"
+        },
+        "source_invoices": "00015559;CRSI-ST1-01-0004776",
+        "notes": "10x10cm 8ply; 10*10 is the size, not a count. Box contents not printed. 10*10 is size, not count; box contents unknown 10*10 is the size, not a count; box contents not printed. Pack count assumed - confirm."
+    },
+    {
+        "name": "Hydrogen Peroxide",
+        "generic_name": "",
+        "strength": "3% 130ml",
+        "form": "solution",
+        "kind": "medical_supply",
+        "category": "Other",
+        "packing": {
+            "top": "bottle",
+            "top_holds": 1,
+            "middle": null,
+            "middle_holds": null,
+            "base": "bottle",
+            "units_per_top": 1,
+            "status": "confirmed"
+        },
+        "source_invoices": "CRSI-ST1-01-0004776",
+        "notes": "3%, 130ml. One bottle per pack."
+    },
+    {
+        "name": "NS (Sodium chloride)",
+        "generic_name": "Sodium chloride",
+        "strength": "0.9%",
+        "form": "IV bag",
+        "kind": "medicine",
+        "category": "Other",
+        "packing": {
+            "top": "bag",
+            "top_holds": 1,
+            "middle": null,
+            "middle_holds": null,
+            "base": "bag",
+            "units_per_top": 1,
+            "status": "confirmed"
+        },
+        "source_invoices": "CR-00016961",
+        "notes": "One bag per pack."
+    },
+    {
+        "name": "On-call Extra Meter",
+        "generic_name": "",
+        "strength": "-",
+        "form": "glucose meter",
+        "kind": "medical_supply",
+        "category": "Other",
+        "packing": {
+            "top": "pack",
+            "top_holds": 1,
+            "middle": null,
+            "middle_holds": null,
+            "base": "piece",
+            "units_per_top": 1,
+            "status": "confirmed"
+        },
+        "source_invoices": "CR-00016964",
+        "notes": "Glucose meter. Single meter."
+    },
+    {
+        "name": "Precisa Blood Glucose Meter",
+        "generic_name": "",
+        "strength": "-",
+        "form": "glucose meter",
+        "kind": "medical_supply",
+        "category": "Other",
+        "packing": {
+            "top": "kit",
+            "top_holds": 1,
+            "middle": null,
+            "middle_holds": null,
+            "base": "kit",
+            "units_per_top": 1,
+            "status": "confirmed"
+        },
+        "source_invoices": "CA-00009742",
+        "notes": "Glucose meter kit. Single meter kit."
+    },
+    {
+        "name": "Precisa Blood Glucose Testing Strip",
+        "generic_name": "",
+        "strength": "-",
+        "form": "test strips",
+        "kind": "medical_supply",
+        "category": "Other",
+        "packing": {
+            "top": "pack",
+            "top_holds": 50,
+            "middle": null,
+            "middle_holds": null,
+            "base": "strip",
+            "units_per_top": 50,
+            "status": "confirmed"
+        },
+        "source_invoices": "CR-00016964",
+        "notes": "50 strips per pack. Printed of 50."
+    },
+    {
+        "name": "Procorisone (Prednisolone)",
+        "generic_name": "Prednisolone",
+        "strength": "5mg",
+        "form": "tablet",
+        "kind": "medicine",
+        "category": "Other",
+        "packing": {
+            "top": "pack",
+            "top_holds": 30,
+            "middle": null,
+            "middle_holds": null,
+            "base": "tablet",
+            "units_per_top": 30,
+            "status": "confirmed"
+        },
+        "source_invoices": "CR-00016964",
+        "notes": "Corticosteroid. Printed of 30."
+    },
+    {
+        "name": "Sanitizer",
+        "generic_name": "",
+        "strength": "60ml",
+        "form": "solution",
+        "kind": "medical_supply",
+        "category": "Other",
+        "packing": {
+            "top": "bottle",
+            "top_holds": 1,
+            "middle": null,
+            "middle_holds": null,
+            "base": "bottle",
+            "units_per_top": 1,
+            "status": "confirmed"
+        },
+        "source_invoices": "CSI-ST1-01-0016241",
+        "notes": "60ml. One bottle per pack."
+    },
+    {
+        "name": "Sildenafil (Seldipro)",
+        "generic_name": "Sildenafil",
+        "strength": "50mg",
+        "form": "tablet",
+        "kind": "medicine",
+        "category": "Other",
+        "packing": {
+            "top": "pack",
+            "top_holds": 2,
+            "middle": "strip",
+            "middle_holds": 4,
+            "base": "tablet",
+            "units_per_top": 8,
+            "status": "confirmed"
+        },
+        "source_invoices": "CRSI-ST1-01-0004776",
+        "notes": "Printed 2*4."
+    },
+    {
+        "name": "Thermometer Digital",
+        "generic_name": "",
+        "strength": "-",
+        "form": "thermometer",
+        "kind": "medical_supply",
+        "category": "Other",
+        "packing": {
+            "top": "piece",
+            "top_holds": 1,
+            "middle": null,
+            "middle_holds": null,
+            "base": "piece",
+            "units_per_top": 1,
+            "status": "confirmed"
+        },
+        "source_invoices": "CR-00016960",
+        "notes": "Digital thermometer. One piece per pack."
+    },
+    {
+        "name": "A-ferin Plus",
+        "generic_name": "",
+        "strength": "-",
+        "form": "syrup",
+        "kind": "medicine",
+        "category": "Respiratory",
+        "packing": {
+            "top": "bottle",
+            "top_holds": 1,
+            "middle": null,
+            "middle_holds": null,
+            "base": "bottle",
+            "units_per_top": 1,
+            "status": "confirmed"
+        },
+        "source_invoices": "CR-00016961",
+        "notes": "Cold and flu syrup; generic not printed. One bottle per pack."
+    },
+    {
+        "name": "Aminophylline",
+        "generic_name": "Aminophylline",
+        "strength": "200mg/5ml",
+        "form": "injection",
+        "kind": "medicine",
+        "category": "Respiratory",
+        "packing": {
+            "top": "bottle",
+            "top_holds": null,
+            "middle": null,
+            "middle_holds": null,
+            "base": null,
+            "units_per_top": null,
+            "status": "missing"
+        },
+        "source_invoices": "CSI-ST1-01-0000015",
+        "notes": "UOM Bottle; batch unclear Pack count not printed; no base unit set. PACK COUNT MISSING - no base unit set; confirm before import."
+    },
+    {
+        "name": "Cofgel",
+        "generic_name": "",
+        "strength": "-",
+        "form": "cough syrup",
+        "kind": "medicine",
+        "category": "Respiratory",
+        "packing": {
+            "top": "bottle",
+            "top_holds": 1,
+            "middle": null,
+            "middle_holds": null,
+            "base": "bottle",
+            "units_per_top": 1,
+            "status": "confirmed"
+        },
+        "source_invoices": "CR-00016961",
+        "notes": "One bottle per pack."
+    },
+    {
+        "name": "Guaifensin",
+        "generic_name": "Guaifenesin",
+        "strength": "100ml",
+        "form": "syrup",
+        "kind": "medicine",
+        "category": "Respiratory",
+        "packing": {
+            "top": "bottle",
+            "top_holds": 1,
+            "middle": null,
+            "middle_holds": null,
+            "base": "bottle",
+            "units_per_top": 1,
+            "status": "confirmed"
+        },
+        "source_invoices": "CR-00016964",
+        "notes": "Misspelled on the invoice. One bottle per pack."
+    },
+    {
+        "name": "Prospan",
+        "generic_name": "",
+        "strength": "100ml",
+        "form": "syrup",
+        "kind": "medicine",
+        "category": "Respiratory",
+        "packing": {
+            "top": "bottle",
+            "top_holds": 1,
+            "middle": null,
+            "middle_holds": null,
+            "base": "bottle",
+            "units_per_top": 1,
+            "status": "confirmed"
+        },
+        "source_invoices": "CSI-ST1-01-0000015",
+        "notes": "subtotal does not reconcile; possible extra line One bottle per pack."
+    },
+    {
+        "name": "Sulbutamolatin",
+        "generic_name": "",
+        "strength": "2mg/5ml",
+        "form": "syrup",
+        "kind": "medicine",
+        "category": "Respiratory",
+        "packing": {
+            "top": "pack",
+            "top_holds": null,
+            "middle": null,
+            "middle_holds": null,
+            "base": null,
+            "units_per_top": null,
+            "status": "missing"
+        },
+        "source_invoices": "CRSI-ST1-01-0014522",
+        "notes": "batch unclear Pack count not printed; no base unit set. PACK COUNT MISSING - no base unit set; confirm before import."
+    },
+    {
+        "name": "Calci-Denk",
+        "generic_name": "",
+        "strength": "-",
+        "form": "effervescent tablet",
+        "kind": "supplement",
+        "category": "Vitamins and Supplements",
+        "packing": {
+            "top": "tube",
+            "top_holds": 20,
+            "middle": null,
+            "middle_holds": null,
+            "base": "tablet",
+            "units_per_top": 20,
+            "status": "confirmed"
+        },
+        "source_invoices": "CRSI-ST1-01-00059??;CRSI-ST1-01-0002370",
+        "notes": "Effervescent calcium; generic not printed. price and total cut off Printed of 20."
+    },
+    {
+        "name": "Exedex",
+        "generic_name": "",
+        "strength": "125ml",
+        "form": "syrup",
+        "kind": "supplement",
+        "category": "Vitamins and Supplements",
+        "packing": {
+            "top": "bottle",
+            "top_holds": 1,
+            "middle": null,
+            "middle_holds": null,
+            "base": "bottle",
+            "units_per_top": 1,
+            "status": "confirmed"
+        },
+        "source_invoices": "CSI-TSA-TS-00000063",
+        "notes": "125ml syrup; generic not printed. One bottle per pack."
+    },
+    {
+        "name": "Kiddz MaxxOmega 3",
+        "generic_name": "",
+        "strength": "200ml",
+        "form": "syrup",
+        "kind": "supplement",
+        "category": "Vitamins and Supplements",
+        "packing": {
+            "top": "bottle",
+            "top_holds": 1,
+            "middle": null,
+            "middle_holds": null,
+            "base": "bottle",
+            "units_per_top": 1,
+            "status": "confirmed"
+        },
+        "source_invoices": "CRSI-ST1-01-0004777",
+        "notes": "Omega 3. One bottle per pack."
+    },
+    {
+        "name": "Livolin (Essential Phospholipids)",
+        "generic_name": "Essential Phospholipids",
+        "strength": "-",
+        "form": "capsule",
+        "kind": "supplement",
+        "category": "Vitamins and Supplements",
+        "packing": {
+            "top": "pack",
+            "top_holds": 30,
+            "middle": null,
+            "middle_holds": null,
+            "base": "capsule",
+            "units_per_top": 30,
+            "status": "confirmed"
+        },
+        "source_invoices": "CA-00009742;CR-00016960;CRSI-ST1-01-0002370",
+        "notes": "Essential phospholipids. Printed of 30."
+    },
+    {
+        "name": "Multivitamin Syrup",
+        "generic_name": "Multivitamin",
+        "strength": "100ml",
+        "form": "syrup",
+        "kind": "supplement",
+        "category": "Vitamins and Supplements",
+        "packing": {
+            "top": "bottle",
+            "top_holds": 1,
+            "middle": null,
+            "middle_holds": null,
+            "base": "bottle",
+            "units_per_top": 1,
+            "status": "confirmed"
+        },
+        "source_invoices": "CRSI-ST1-01-00059??",
+        "notes": "Multivitamin. One bottle per pack."
+    },
+    {
+        "name": "Multivitamin Syrup",
+        "generic_name": "Multivitamin",
+        "strength": "200ml",
+        "form": "syrup",
+        "kind": "supplement",
+        "category": "Vitamins and Supplements",
+        "packing": {
+            "top": "bottle",
+            "top_holds": 1,
+            "middle": null,
+            "middle_holds": null,
+            "base": "bottle",
+            "units_per_top": 1,
+            "status": "confirmed"
+        },
+        "source_invoices": "CRSI-ST1-01-00059??",
+        "notes": "Multivitamin. One bottle per pack."
+    },
+    {
+        "name": "Nafliv",
+        "generic_name": "",
+        "strength": "-",
+        "form": "capsule",
+        "kind": "supplement",
+        "category": "Vitamins and Supplements",
+        "packing": {
+            "top": "pack",
+            "top_holds": 30,
+            "middle": null,
+            "middle_holds": null,
+            "base": "capsule",
+            "units_per_top": 30,
+            "status": "confirmed"
+        },
+        "source_invoices": "CA-00009742",
+        "notes": "Liver support supplement; generic not printed. Printed of 30."
+    },
+    {
+        "name": "Nat C Ester",
+        "generic_name": "",
+        "strength": "-",
+        "form": "tablet",
+        "kind": "supplement",
+        "category": "Vitamins and Supplements",
+        "packing": {
+            "top": "pack",
+            "top_holds": 30,
+            "middle": null,
+            "middle_holds": null,
+            "base": "tablet",
+            "units_per_top": 30,
+            "status": "confirmed"
+        },
+        "source_invoices": "CRSI-ST1-01-0004776",
+        "notes": "Vitamin C. Printed of 30."
+    },
+    {
+        "name": "Normagut",
+        "generic_name": "",
+        "strength": "-",
+        "form": "capsule",
+        "kind": "supplement",
+        "category": "Vitamins and Supplements",
+        "packing": {
+            "top": "pack",
+            "top_holds": 30,
+            "middle": null,
+            "middle_holds": null,
+            "base": "capsule",
+            "units_per_top": 30,
+            "status": "confirmed"
+        },
+        "source_invoices": "CRSI-ST1-01-0002370",
+        "notes": "Probiotic; generic not printed. Printed of 30."
+    },
+    {
+        "name": "Power Plus (Multivitamin & Mineral)",
+        "generic_name": "Multivitamin & Mineral",
+        "strength": "-",
+        "form": "tablet",
+        "kind": "supplement",
+        "category": "Vitamins and Supplements",
+        "packing": {
+            "top": "pack",
+            "top_holds": null,
+            "middle": null,
+            "middle_holds": null,
+            "base": null,
+            "units_per_top": null,
+            "status": "missing"
+        },
+        "source_invoices": "CSI-TSA-TS-00000063",
+        "notes": "Multivitamin and mineral. Pack count not printed; no base unit set. PACK COUNT MISSING - no base unit set; confirm before import."
+    },
+    {
+        "name": "PregnaVie Essentials",
+        "generic_name": "",
+        "strength": "-",
+        "form": "tablet",
+        "kind": "supplement",
+        "category": "Vitamins and Supplements",
+        "packing": {
+            "top": "pack",
+            "top_holds": 30,
+            "middle": null,
+            "middle_holds": null,
+            "base": "tablet",
+            "units_per_top": 30,
+            "status": "confirmed"
+        },
+        "source_invoices": "CA-00009742",
+        "notes": "Prenatal multivitamin. Printed of 30."
+    },
+    {
+        "name": "Pregnacare Complete",
+        "generic_name": "",
+        "strength": "-",
+        "form": "tablet",
+        "kind": "supplement",
+        "category": "Vitamins and Supplements",
+        "packing": {
+            "top": "pack",
+            "top_holds": 30,
+            "middle": null,
+            "middle_holds": null,
+            "base": "tablet",
+            "units_per_top": 30,
+            "status": "confirmed"
+        },
+        "source_invoices": "CA-00009742",
+        "notes": "Prenatal multivitamin. Printed of 30."
+    },
+    {
+        "name": "Sycal",
+        "generic_name": "",
+        "strength": "-",
+        "form": "tablet",
+        "kind": "supplement",
+        "category": "Vitamins and Supplements",
+        "packing": {
+            "top": "pack",
+            "top_holds": 2,
+            "middle": "strip",
+            "middle_holds": 15,
+            "base": "tablet",
+            "units_per_top": 30,
+            "status": "confirmed"
+        },
+        "source_invoices": "CRSI-ST1-01-0004777",
+        "notes": "Calcium tablet; generic not printed. Printed 2*15."
+    },
+    {
+        "name": "Venatura Kids (Vitamin D3)",
+        "generic_name": "Vitamin D3",
+        "strength": "400IU",
+        "form": "drops",
+        "kind": "supplement",
+        "category": "Vitamins and Supplements",
+        "packing": {
+            "top": "bottle",
+            "top_holds": 1,
+            "middle": null,
+            "middle_holds": null,
+            "base": "bottle",
+            "units_per_top": 1,
+            "status": "confirmed"
+        },
+        "source_invoices": "CR-00016964",
+        "notes": "Vitamin D3. batch unclear One bottle per pack."
+    },
+    {
+        "name": "Vital Cal",
+        "generic_name": "",
+        "strength": "-",
+        "form": "tablet",
+        "kind": "supplement",
+        "category": "Vitamins and Supplements",
+        "packing": {
+            "top": "pack",
+            "top_holds": 30,
+            "middle": null,
+            "middle_holds": null,
+            "base": "tablet",
+            "units_per_top": 30,
+            "status": "confirmed"
+        },
+        "source_invoices": "CR-00016964",
+        "notes": "Calcium tablet; generic not printed. Printed of 30."
+    }
+]

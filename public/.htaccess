@@ -1,0 +1,83 @@
+<IfModule mod_rewrite.c>
+    <IfModule mod_negotiation.c>
+        Options -MultiViews -Indexes
+    </IfModule>
+
+    RewriteEngine On
+
+    # Handle Authorization Header
+    RewriteCond %{HTTP:Authorization} .
+    RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
+
+    # Handle X-XSRF-Token Header
+    RewriteCond %{HTTP:x-xsrf-token} .
+    RewriteRule .* - [E=HTTP_X_XSRF_TOKEN:%{HTTP:X-XSRF-Token}]
+
+    # Redirect Trailing Slashes If Not A Folder...
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteCond %{REQUEST_URI} (.+)/$
+    RewriteRule ^ %1 [L,R=301]
+
+    # Send Requests To Front Controller...
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteRule ^ index.php [L]
+</IfModule>
+
+# ---------------------------------------------------------------------------
+# PMAS - additions for a production host.
+#
+# The rewrite rules above are Laravel's defaults and are unchanged. Everything
+# below is optional hardening and performance tuning, each wrapped in an
+# <IfModule> so that a host missing the module simply skips it rather than
+# throwing a 500.
+#
+# Ignored entirely by nginx, which is fine - see the host nginx configuration for the equivalent.
+# ---------------------------------------------------------------------------
+
+# Never serve dotfiles: .env, .git, .htpasswd. The document root is public/, so
+# this should be unreachable anyway, but a stray symlink or a mistyped root
+# would otherwise expose it.
+<FilesMatch "^\.">
+    Require all denied
+</FilesMatch>
+
+# Compression. On a slow connection this is the largest single win available,
+# because the fingerprinted CSS and JS bundles are large and compress well.
+<IfModule mod_deflate.c>
+    <IfModule mod_filter.c>
+        AddOutputFilterByType DEFLATE text/html text/plain text/xml text/css
+        AddOutputFilterByType DEFLATE application/javascript application/json
+        AddOutputFilterByType DEFLATE application/xml image/svg+xml
+    </IfModule>
+</IfModule>
+
+# Fingerprinted build output can be cached hard, because a changed file gets a
+# new name. Everything else stays short-lived.
+<IfModule mod_expires.c>
+    ExpiresActive On
+    ExpiresByType text/css "access plus 1 year"
+    ExpiresByType application/javascript "access plus 1 year"
+    ExpiresByType image/svg+xml "access plus 1 year"
+    ExpiresByType image/webp "access plus 1 year"
+    ExpiresByType text/html "access plus 0 seconds"
+</IfModule>
+
+# PHP gets these from the SecurityHeaders middleware too. Repeating them here
+# covers static files and Apache's own error pages, which never reach PHP.
+<IfModule mod_headers.c>
+    Header always set X-Content-Type-Options "nosniff"
+    Header always set X-Frame-Options "SAMEORIGIN"
+    Header always set Referrer-Policy "strict-origin-when-cross-origin"
+    Header always set Strict-Transport-Security "max-age=31536000; includeSubDomains"
+    # Never cache PHP output; it is per-user and mostly private.
+    <FilesMatch "\.php$">
+        Header set Cache-Control "no-store, private"
+    </FilesMatch>
+</IfModule>
+
+# The branding logo upload. Anything larger is a mistake, not a logo.
+<IfModule mod_php.c>
+    php_value upload_max_filesize 12M
+    php_value post_max_size 12M
+</IfModule>

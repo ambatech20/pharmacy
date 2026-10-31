@@ -1,0 +1,53 @@
+@import 'tailwindcss';
+
+@source '../../vendor/laravel/framework/src/Illuminate/Pagination/resources/views/*.blade.php';
+@source '../../storage/framework/views/*.php';
+
+@theme {
+    --font-sans: 'Trebuchet MS', 'Segoe UI', sans-serif;
+}
+
+:root {
+    --pmas-ink: #182230;
+    --pmas-muted: #64748b;
+    --pmas-teal: #0f9f8f;
+    --pmas-teal-dark: #08796f;
+    --pmas-line: #e5eaf0;
+    --pmas-surface: #ffffff;
+    --pmas-canvas: #f3f6f8;
+
+    /* PART D — fallbacks only; the layout sets these from the settings table. */
+    --brand-primary: #12A594;
+    --brand-primary-dark: #0e8a7d;
+    --brand-accent: #101B2D;
+}
+
+html { background: var(--pmas-canvas); }
+/* Alpine hides these once it starts; without this they would flash on screen first. */
+[x-cloak] { display: none !important; }
+/* Collapsible sidebar sections: the chevron turns to point at the open list. */
+[data-nav-section-toggle][aria-expanded="true"] .nav-chevron { transform: rotate(90deg); }
+/* Touch screens get a full-size target without stretching the desktop sidebar. */
+@media (pointer: coarse) { [data-nav-section-toggle] { min-height: 44px; } }
+body {
+    color: var(--pmas-ink);
+    background: var(--pmas-canvas);
+    font-family: var(--font-sans);
+    letter-spacing: 0;
+}
+
+button, a, input, select, textarea { transition: border-color .16s ease, box-shadow .16s ease, background-color .16s ease, color .16s ease, transform .16s ease; }
+button:focus-visible, a:focus-visible, input:focus-visible, select:focus-visible, textarea:focus-visible { outline: 3px solid rgba(15, 159, 143, .22); outline-offset: 2px; }
+input, select, textarea { background: var(--pmas-surface); }
+input::placeholder, textarea::placeholder { color: #64748b; }
+table tbody tr { transition: background-color .14s ease; }
+table tbody tr:hover { background-color: #f7fbfb; }
+
+@media (max-width: 640px) {
+    main { padding-top: 1.25rem; }
+    table th, table td { white-space: nowrap; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+    *, *::before, *::after { animation-duration: .01ms !important; animation-iteration-count: 1 !important; transition-duration: .01ms !important; }
+}

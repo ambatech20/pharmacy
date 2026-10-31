@@ -1,0 +1,5 @@
+# Private pharmacy operations app. There is no public content to index: the
+# only unauthenticated page is the sign-in form, and everything else requires
+# an account. Keep every crawler out.
+User-agent: *
+Disallow: /

@@ -1,0 +1,62 @@
+# Compiled and build artifacts
+*.pyc
+__pycache__/
+*.o
+*.obj
+dist/
+build/
+target/
+
+# Dependencies
+vendor/
+node_modules/
+.env
+.env.local
+.env.*
+!.env.example
+!.env.*.example
+
+# Logs and temp files
+*.log
+storage/logs/*
+!storage/logs/.gitignore
+*.tmp
+*.swp
+.phpunit.result.cache
+
+# Editors
+.vscode/
+.idea/
+.vs/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Coverage
+coverage/
+htmlcov/
+.coverage
+
+# PHP specific
+*.php~
+*.bak
+*.orig
+*.rej
+*.tmp
+*.patch
+
+# Laravel/Hydrus specific
+bootstrap/cache/*
+!bootstrap/cache/.gitignore
+storage/framework/cache/*
+!storage/framework/cache/.gitignore
+storage/framework/sessions/*
+!storage/framework/sessions/.gitignore
+storage/framework/testing/*
+!storage/framework/testing/.gitignore
+storage/framework/views/*
+!storage/framework/views/.gitignore
+public/storage
