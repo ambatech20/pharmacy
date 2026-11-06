@@ -27,7 +27,10 @@ class AuthController extends Controller
 
         // Per-credential+IP throttle on top of the routes' flat throttle:5,1, so
         // an attack that rotates source IPs still cannot hammer one account.
-        $throttleKey = Str::transliterate($credentials['username'] . '|' . $request->ip());
+        // Key only on the username so rotating source IPs cannot bypass the
+        // per-account lockout. IP-based protection is still provided by the
+        // route-level throttle:5,1 on /login.
+        $throttleKey = Str::transliterate($credentials['username']);
 
         if (RateLimiter::tooManyAttempts($throttleKey, 5)) {
             $seconds = RateLimiter::availableIn($throttleKey);

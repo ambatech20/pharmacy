@@ -17,7 +17,7 @@ class EnsureUserHasRole
     {
         $user = $request->user();
 
-        if (!$user || !in_array($user->role, $roles, true)) {
+        if (!$user || !in_array($user->role, $roles, true) || ! (bool) $user->active) {
             abort(403, 'You do not have permission to access this page.');
         }
 

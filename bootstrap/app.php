@@ -14,12 +14,8 @@ return Application::configure(basePath: dirname(__DIR__))
     ->withCommands([__DIR__.'/../app/Console/Commands'])
     ->withMiddleware(function (Middleware $middleware) {
         $trustedProxies = env('TRUSTED_PROXIES');
-        if ($trustedProxies !== null) {
-            if (is_bool($trustedProxies) || $trustedProxies === '*') {
-                $middleware->trustProxies(at: '*');
-            } elseif (is_string($trustedProxies) && trim($trustedProxies) !== '') {
-                $middleware->trustProxies(at: array_map('trim', explode(',', $trustedProxies)));
-            }
+        if ($trustedProxies !== null && is_string($trustedProxies) && trim($trustedProxies) !== '') {
+            $middleware->trustProxies(at: array_map('trim', explode(',', $trustedProxies)));
         }
 
         $middleware->alias([
